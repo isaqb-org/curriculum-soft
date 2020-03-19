@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Advanced Level Curriculum SOFT
 
 :toc:
 :toc-placement!:
@@ -12,17 +12,16 @@ ifdef::env-github[]
 endif::[]
 
 == Status 
-image:https://travis-ci.org/isaqb-org/advanced-template.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/advanced-template"]
-image:https://img.shields.io/github/last-commit/isaqb-org/advanced-template/master.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/advanced-template.svg["Contributors",link="https://github.com/isaqb-org/advanced-template/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/advanced-template.svg["Issues",link="https://github.com/isaqb-org/advanced-template/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/advanced-template.svg["Issues closed",link="https://github.com/isaqb-org/advanced-template/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-soft/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-soft.svg["Contributors",link="https://github.com/isaqb-org/advanced-template/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-soft.svg["Issues",link="https://github.com/isaqb-org/curriculum-soft/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-soft.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-soft/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+This repository contains the iSAQB Advanced Level curriculum for SOFT in AsciiDoc.
 
 toc::[]
 
