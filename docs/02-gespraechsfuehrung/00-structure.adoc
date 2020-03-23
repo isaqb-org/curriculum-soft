@@ -1,8 +1,8 @@
-// header file for curriculum section 3: Lerneinheit 3
+// header file for curriculum section 4: Lerneinheit 2
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} 3
+== {lesson} Einzel- und Gruppengesprächsführung
 
 include::01-duration-terms.adoc[{include_configuration}]
 

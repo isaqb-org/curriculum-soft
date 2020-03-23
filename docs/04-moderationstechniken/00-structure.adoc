@@ -1,8 +1,8 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
+// header file for curriculum section 4: Lerneinheit 4
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} 1
+== {lesson} Moderationstechniken
 
 include::01-duration-terms.adoc[{include_configuration}]
 

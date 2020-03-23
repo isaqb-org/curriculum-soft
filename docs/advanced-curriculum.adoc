@@ -44,19 +44,19 @@ include::01-basics/00-basics.adoc[{include_configuration}]
 
 <<<
 :sectnums:
-include::01-module-block-1/00-structure.adoc[{include_configuration}]
+include::01-kommunikationsmodelle/00-structure.adoc[{include_configuration}]
 
 <<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
+include::02-gespraechsfuehrung/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-visualisierungstechniken/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
+include::04-moderationstechniken/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
+include::05-konfliktmanagement/00-structure.adoc[{include_configuration}]
 
 <<<
 include::98-examples/00-examples.adoc[{include_configuration}]

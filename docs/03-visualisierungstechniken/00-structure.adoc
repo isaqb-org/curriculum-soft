@@ -1,8 +1,8 @@
-// header file for curriculum section 4: Lerneinheit 4
+// header file for curriculum section 3: Lerneinheit 3
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} 4
+== {lesson} Visualisierungstechniken
 
 include::01-duration-terms.adoc[{include_configuration}]
 

@@ -1,8 +1,8 @@
-// header file for curriculum section 4: Lerneinheit 2
+// header file for curriculum section 1: ERSTE LERNEINHEIT
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} 2
+== {lesson} Grundlagen zu Kommunikationsmodellen und -Typen
 
 include::01-duration-terms.adoc[{include_configuration}]
 
