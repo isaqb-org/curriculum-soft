@@ -3,17 +3,15 @@
 :basics: Grundlegendes
 :toc-title: Inhaltsverzeichnis
 :learning-goals: Lernziele
-:lesson: Lerneinheit
 :references: Referenzen
 :examples: Beispiele
 // end::DE[]
 
 // tag::EN[]
 :lang: EN
-:basics: Basics
+:basics: Essentials
 :toc-title: Table of Contents
-:learning-goals: Learning goals
-:lesson: Lesson
+:learning-goals: Learning Goals
 :references: References
 :examples: Examples
 // end::EN[]
