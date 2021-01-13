@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} Visualisierungstechniken
+== Visualisierungstechniken
 
 include::01-duration-terms.adoc[{include_configuration}]
 
