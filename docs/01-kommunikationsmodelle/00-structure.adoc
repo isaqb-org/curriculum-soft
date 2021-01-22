@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} Grundlagen zu Kommunikationsmodellen und -Typen
+== Grundlagen zu Kommunikationsmodellen und -typen
 
 include::01-duration-terms.adoc[{include_configuration}]
 

@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} Grundlagen Konfliktmanagement
+== Grundlagen Konfliktmanagement
 
 include::01-duration-terms.adoc[{include_configuration}]
 
