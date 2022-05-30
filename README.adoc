@@ -12,8 +12,8 @@ ifdef::env-github[]
 endif::[]
 
 == Status
-image:https://github.com/isaqb-org/curriculum-soft/workflows/CI/badge.svg?branch=master["CI"]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-soft/master.svg["Last commit"]
+image:https://github.com/isaqb-org/curriculum-soft/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-soft/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-soft.svg["Contributors",link="https://github.com/isaqb-org/curriculum-soft/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-soft.svg["Issues",link="https://github.com/isaqb-org/curriculum-soft/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-soft.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-soft/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]

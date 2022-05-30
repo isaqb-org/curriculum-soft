@@ -1,4 +1,4 @@
-a=== {references}
+=== {references}
 
 <<bachmann>>, <<kruchten>>
 
