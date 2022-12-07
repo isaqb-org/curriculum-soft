@@ -32,24 +32,28 @@ ATTENTION: labels have to be non-numeric.
 ====
 // end::REMARK[]
 
-**B**
+**G**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[glasl, Glasl 1998]]] Glasl, Friedrich: Konfliktfähigkeit statt Streitlust oder Konfliktscheu
 
-**C**
+- [[[graeßner, Graeßner 2013]]] Graeßner, G.: Moderation - das Lehrbuch
 
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+**M**
 
-**H**
+- [[[mayrshofer, Mayrshofer 2011]]] Mayrshofer, D., Kröger, H. A.: Prozesskompetenz in der Projektarbeit
 
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+**R**
 
-**K**
-
-- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[rachow, Rachow 2016]]] Rachow, Axel: Sichtbar, Die besten Visualisierungs-Tipps für Präsentation und Training
 
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[thun81, Schulz von Thun 1981]]] Schulz von Thun, F.: Miteinander reden 1, Störungen und Klärungen, Allgemeine Psy- chologie der Kommunikation
 
+- [[[thun83, Schulz von Thun 1983]]] Schulz von Thun, F.: Miteinander reden 2, Stile, Werte und Persönlichkeitsentwicklung; Differentielle Psychologie der Kommunikation
+
+- [[[thun98, Schulz von Thun 1998]]] Schulz von Thun, F.: Miteinander reden 3, Das "Innere Team" und situationsgerechte Kommunikation
+
+**V**
+
+- [[[vigenschow, Vigenschow+ 2014]]] Vigenschow, U., Schneider, B., Meyrose, I.: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle.

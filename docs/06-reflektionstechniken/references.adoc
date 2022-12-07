@@ -1,7 +1,5 @@
 === {references}
 
-<<vigenschow>>, <<thun81>>, <<thun83>>, <<thun98>>
-
 // tag::REMARK[]
 [NOTE]
 ====

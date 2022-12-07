@@ -1,13 +1,13 @@
-// header file for curriculum section 3: Lerneinheit 3
+// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Visualisierungstechniken
+== Reflektionstechniken
 // end::DE[]
 
 // tag::EN[]
-== Visualisation techniques
+== Reflection techniques
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
@@ -15,4 +15,4 @@ include::01-duration-terms.adoc[{include_configuration}]
 include::02-learning-goals.adoc[{include_configuration}]
 
 // references (if any!)
-include::references.adoc[{include_configuration}]
+//include::references.adoc[{include_configuration}]

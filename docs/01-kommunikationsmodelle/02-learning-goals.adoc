@@ -1,28 +1,55 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+==== Was sollen die Teilnehmer können?
+- Die Teilnehmer (TN) kennen verschiedene Kommunikationsmodelle und –typen.
+- TN können einschätzen, in welchen Typologien sie selbst sowie ihre Gesprächspartner sich situativ befinden. TN berücksichtigen dabei, dass Typologien auch zu Schubladendenken führen können und deshalb vorsichtig genutzt werden sollten.
+- TN können ihre Kommunikation dem jeweiligen Bedarf des Anderen anpassen.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+==== Was sollen die Teilnehmer verstehen?
+- Der Mitmensch ist anders als ich
+- Den Kommunikationstyp des anderen zu kennen kann im Gespräch helfen
+- Inhalte sind beim Sprechen das Wenigste
+- Menschen agieren nicht (nur) rational, und das ist OK!
+- Modelle sind zu simpel und trotzdem hilfreich
+- Meine innere Haltung wirkt sich auf das Gespräch aus
+- Es gibt nicht das „Eigentum der alleinigen Wahrheit“
+- Ressourcenorientierte versus defizitäre Kommunikation
 
+==== Was sollen die Teilnehmer kennen?
+- Die eigenen Annahmen darüber, wie Kommunikation funktioniert
+- Situationen, in denen Kommunikation klappte und solche, in denen sie fehlschlug
+- Die eigenen Stärken und Schwächen in konkreten Kommunikationssituationen
+- Erkenntnis über den eigenen Entwicklungswunsch
 
 // end::DE[]
 
 // tag::EN[]
-[[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+==== What should the participants be able to do?
+- The participants are familiar with different communication models and types.
+- Participants can assess in which typologies they and their dialogue partner find themselves. During this process, they consider that typologies can also lead to stereotyped thinking and should therefore be used with care.
+- Participants can adapt their communication to the respective needs of others.
+
+==== What should the participants understand?
+- Other people are not the same as me.
+- Knowing the other person’s communication type can be useful when communicating with them.
+- Content is the least important aspect when speaking.
+- People don’t (only) act rationally, and that’s OK!
+- Models are too simple, but are nonetheless useful.
+- My inner disposition affects the communication.
+- It’s wrong to believe that only one person can be right.
+- Resource-oriented versus deficient communication.
+
+==== What should the participants know?
+- Their own assumptions of how communication works
+- Situations in which communication was successful and situations in which it was unsuccessful
+- Their own strengths and weaknesses in specific communication situations
+- Knowledge of how they wish to improve their own skills
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+**TODO**: als Lernziele formulieren
 ====
 // end::REMARK[]

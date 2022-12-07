@@ -1,34 +1,20 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 120 Min. | Übungszeit: 210 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
-
-
+Definitionen, Rollenverständnis des Moderators, verschiedene Moderationstechniken, Stufen der Entscheidungsfindung.
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 210 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
-
+Definitions, the role of the moderator, different moderation techniques, stages in decision-making.
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
 // end::REMARK[]

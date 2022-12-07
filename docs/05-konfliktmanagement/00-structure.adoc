@@ -2,7 +2,13 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::DE[]
 == Grundlagen Konfliktmanagement
+// end::DE[]
+
+// tag::EN[]
+== Introduction to conflict management
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 
