@@ -1,0 +1,30 @@
+=== {learning-goals}
+
+// tag::DE[]
+Beschreibung dessen, was die Teilnehmer über Gruppengespräche führen und Konfliktanalyse lernen sollen, wenn sie ihre Beispiele nutzen.
+
+==== Was sollen die Teilnehmer können?
+- Die TN sind in der Lage, die vermittelten Inhalte auf den eigenen Kontext zu übertragen und anzuwenden.
+
+==== Was sollen die Teilnehmer verstehen?
+- Die im Seminar vorgestellten Techniken und Werkzeuge lassen sich auf den eigenen Kontext übertragen
+
+==== Was sollen die Teilnehmer kennen?
+- Die Teilnehmer gewinnen neue Erkenntnisse über die individuellen Herausforderungen im eigenen Arbeitskontext und erhalten Impulse um diesen zu begegnen und sie zu lösen.
+// end::DE[]
+
+// tag::EN[]
+A description of what the participants should learn about conducting group discussions and conflict analysis when they use their examples.
+
+==== What should the participants be able to do?
+- The participants can translate and apply the content of the training course to their own context.
+
+==== What should the participants understand?
+- The techniques and tools presented in the seminar can be translated and applied to the participants’ own context.
+
+==== What should the participants know?
+- The participants gain new knowledge about the individual challenges in the context of their own work, and are inspired to face up to them and find solutions.
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

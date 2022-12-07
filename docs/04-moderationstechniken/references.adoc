@@ -1,8 +1,6 @@
 === {references}
 
-<<kruchten>>
-
-
+<<rachow>>, <<graeßner>>, <<mayrshofer>>
 
 // tag::REMARK[]
 [NOTE]

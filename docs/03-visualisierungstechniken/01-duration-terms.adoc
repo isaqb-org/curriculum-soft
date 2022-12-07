@@ -1,34 +1,20 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 30 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
-
-
+Visualisierungstechniken, Bedeutung von Visualisierung, Vor- und Nachteile unterschiedlicher Visualisierungsmedien (Metaplanwand, Whiteboard, Flipchart, Folien, PowerPoint, Hilfsmittel).
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 30 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
-
+Visualisation techniques, importance of visualisation, advantages and disadvantages of different visualisation media (metaplan board, whiteboard, flipchart, slides, PowerPoint, tools).
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
 // end::REMARK[]

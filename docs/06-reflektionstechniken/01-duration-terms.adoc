@@ -1,0 +1,20 @@
+// tag::DE[]
+|===
+| Dauer: 20 Min. | Übungszeit: 40 Min.
+|===
+
+=== Begriffe und Konzepte
+Definitionen, aktives Zuhören, Feedback geben, Reflektionswerkzeuge.
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 20 min | Practice time: 40 min
+|===
+
+=== Terms and Principles
+Definitions, active listening, providing feedback, reflection tools.
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

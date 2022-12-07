@@ -2,7 +2,13 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::DE[]
 == Einzel- und Gruppengesprächsführung
+// end::DE[]
+
+// tag::EN[]
+== One-on-one and group discussions
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 

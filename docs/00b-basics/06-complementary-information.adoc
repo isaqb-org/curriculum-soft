@@ -1,12 +1,28 @@
 // tag::DE[]
 === Ergänzende Informationen, Begriffe, Übersetzungen
 
+Architekten benötigen Soft Skills in ihrem Alltag. Sie stehen in kontinuierlichem Dialog mit Stakeholdern, Requirements-Ingenieuren, Entwicklung und Qualitätssicherung. Dabei treffen sie Entwurfsentscheidungen auf Basis der Information aus vielen unterschiedlichen Gesprächen, die sie mit Personen mit unterschiedlichen Interessen geführt haben. In diesem Spannungsfeld müssen sie in der Lage sein, die für die Entscheidung maßgeblich wichtigen Inhalte zu erkennen und herauszuarbeiten. Ihre Entscheidungen wiederum klar nachvollziehbar darzustellen, ist eine weitere Herausforderung.
+
+Oft stehen allzu menschliche Eigenschaften der rein sachlichen Kommunikation im Weg, so dass Missverständnisse und Befindlichkeiten den Entscheidungsprozess und das reibungslose Zusammenarbeiten behindern können. Konflikte können so leicht entstehen.
+
+Die Schulung geht auf die kontextüblichen Arbeitssituationen von Architekten als "Nabe im Rad" konkret ein und liefert pragmatisches Handwerkszeug, um den eigenen Soft-Skills-Baukasten anzureichern und angemessen konstruktiv die Herausforderungen eines Architekten zu handhaben.
+
+Die in der Schulung „Soft Skills für Architekten“ gelernten Inhalte werden in der Prüfung zum iSAQB-CPSA-A nicht geprüft. Es wird jedoch vom Prüfling erwartet, dass er seine Soft Skills nutzt, um die Lösung, die er für die Prüfungsaufgabe gefunden hat, verständlich zu präsentieren und zu diskutieren.
+
 Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
 
 // end::DE[]
 
 // tag::EN[]
 === Supplementary Information, Terms, Translations
+
+Architects need soft skills in their day-to-day work. They are continuously in contact with stakeholders, requirements engineers and development and quality assurance staff. They make design decisions based on information obtained from many different discussions, held with people with a wide range of interests. In this area of potential conflict, they must be able to identify the relevant important content for the decision to be made, and to present it in detail. Communication of their actual decisions in a clearly understandable manner is another challenge.
+
+Human traits are often an obstacle to objective communication, with the result that misunderstandings and sensitivities can hinder the decision-making process and smooth cooperation, and that conflicts can easily develop.
+
+This course specifically addresses the typical work situations of architects in this context as the "hub of the wheel”, and provides pragmatic tools for enriching one’s own set of soft skills and appropriately constructively coping with the challenges of an architect.
+
+The material learnt in the “Soft Skills for Architects” module is not covered by the iSAQB CPSA-A examination. It is, however, expected that the examinees use their soft skills to present and discuss their solution to the examination task in an understandable manner.
 
 To the extent necessary for understanding the curriculum, we have added definitions of technical terms to the https://github.com/isaqb-org/glossary[iSAQB glossary] and complemented them by references to (translated) literature.
 // end::EN[]

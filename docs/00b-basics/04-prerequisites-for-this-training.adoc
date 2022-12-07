@@ -3,17 +3,18 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+- Software-Entwicklung ist Kommunikation
+- Architekten vertreten die IT-Seite und unterstützen Requirements Ingenieure/Software-Analytiker in deren Rolle als Vermittler zwischen Fachseite und IT-Seite
+- Menschen zu respektieren und mit ihnen erfolgreich zu kommunizieren ist eine wichtige Fähigkeit für Architekten
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Kenntnis typischer Herausforderungen bei der Interaktion mit anderen Menschen
+  * Der andere „versteht mich nicht“
+  * Es gibt einen Konflikt
+  * Architekten hängen im Gespräch ihre Gesprächspartner gelegentlich ab
+  * Komplizierte Sachverhalte brauchen Bilder, um besser verstanden zu werden
+  * Gemeinsam Lösungen zu finden ist nicht einfach
 // end::DE[]
 
 // tag::EN[]
@@ -21,22 +22,20 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- Software development is communication.
+- Architects represent the IT side and support Requirements Engineers/Software Analysts in their role as intermediaries between the operations side and the IT side.
+- Respecting people and communicating successfully with them are important skills for architects.
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+- Knowledge of typical challenges when interacting with other people:
+  * The other person “doesn’t understand me”.
+  * There is a conflict.
+  * People sometimes don’t understand everything that architects are trying to explain to them.
+  * Complicated issues are easier to understand with the aid of diagrams.
+  * It’s not easy to find solutions together.
+
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
 // end::REMARK[]

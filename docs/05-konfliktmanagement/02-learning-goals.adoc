@@ -1,31 +1,43 @@
 === {learning-goals}
 
-
 // tag::DE[]
-[[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+==== Was sollen die Teilnehmer können?
+- Die TN können bedarfsgerecht eine Konfliktanalyse durchführen, um handlungs- und arbeitsfähig zu bleiben.
+- Die TN können in einer Konfliktsituation erkennen, ob sie den Konflikt eigenverantwortlich lösen können.
+- Die TN finden sowohl eigene Deeskalationswege als auch Wege der Delegation und Eskalation.
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+==== Was sollen die Teilnehmer verstehen?
+- Verschiedene Konfliktarten benötigen unterschiedliche Lösungswege in der Klärung.
+- Konfliktanalysen unterstützen darin, zweckmäßige von unzweckmäßigen Lösungswegen zu unterscheiden.
+- Konstruktive Konfliktlösungen tragen zu Wachstum und Lernen bei.
+- Konflikte lassen sich nur unter gewissen Voraussetzungen eigenverantwortlich lösen.
+- Die TN sind nicht dafür verantwortlich, die Lösung für einen Konflikt zu liefern.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
-
-[[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== Was sollen die Teilnehmer kennen?
+- Die für den Arbeitskontext der SW-Architektur wichtigsten Konfliktsituationen und deren Beteiligte (z. B. Fachbereich/Entwicklung, Entwicklung/Betrieb, Entwicklung/Support, usw.)
+- Die Konfliktstufen nach Glasl
+- Eigenverantwortliche Konfliktlösungswege
+- Wege der Delegation und der Eskalation
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
+==== What should the participants be able to do?
+- The participants can carry out a conflict analysis appropriate to the situation, to ensure a continued ability to act and work.
+- In a conflict situation, the participants can recognise whether they can resolve the conflict on their own authority.
+- The participants find both their own de-escalation channels and delegation options and escalation channels.
 
-[[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
+==== What should the participants understand?
+- Different types of conflict require different approaches for their resolution.
+- Conflict analyses assist in differentiating between practical and impractical solution approaches.
+- Constructive conflict solutions contribute to growth and learning.
+- Only under certain conditions can conflicts can be resolved on one’s own authority.
+- The participants are not responsible for providing the solution for a conflict.
+
+==== What should the participants know?
+- The most important conflict situations in the context of software architecture work, and the involved parties (e. g., Specialist Department / Development, Development/Operations, Development/Support, etc.)
+- Glasl’s stages of conflicts
+- Conflict resolution options on one’s own authority
+- Delegation options and escalation channels
 // end::EN[]
 
 // tag::REMARK[]

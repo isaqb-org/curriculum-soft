@@ -1,7 +1,4 @@
-a=== {references}
-
-<<bachmann>>, <<kruchten>>
-
+=== {references}
 
 // tag::REMARK[]
 [NOTE]

@@ -2,7 +2,14 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== Grundlagen zu Kommunikationsmodellen und -typen
+// tag::DE[]
+== Grundlagen zu Kommunikationsmodellen und -Typen
+// end::DE[]
+
+// tag::EN[]
+== Introduction to communication models and types
+// end::EN[]
+
 
 include::01-duration-terms.adoc[{include_configuration}]
 
