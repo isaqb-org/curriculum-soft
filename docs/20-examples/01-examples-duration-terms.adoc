@@ -1,0 +1,27 @@
+// tag::DE[]
+Dieser Abschnitt ist nicht prüfungsrelevant.
+
+=== Begriffe und Konzepte
+Innerhalb jeder lizensierten Schulung müssen mindestens 3 Beispiele für Gruppengespräche und Konflik-
+tanalyse aus dem Kontext der Teilnehmer bearbeitet werden.
+
+Art und Ausprägung weiterer vorgestellter Beispiele können von der Schulung bzw. den Interessen der
+Teilnehmer abhängen und werden seitens iSAQB nicht vorgegeben.
+// end::DE[]
+
+
+// tag::EN[]
+This section is not examinable.
+
+=== Terms and Principles
+Within each licenced training course, at least 3 examples of group discussions and conflict analysis from the context of the participants must be addressed.
+
+The nature and characteristics of additional examples presented can vary depending on the training and/or the interests of the participants, and are not specified by the iSAQB.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen.
+====
+// end::REMARK[]

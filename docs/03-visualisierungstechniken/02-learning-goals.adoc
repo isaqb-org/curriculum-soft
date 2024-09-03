@@ -1,36 +1,43 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+==== Was sollen die Teilnehmer können?
+- Die TN haben einen Eindruck darüber gewonnen, wie sie Visualisierungstechniken zur Konsensfindung und gemeinsamer Ergebnisentwicklung einsetzen können.
+- Die TN sollen sich ermutigt fühlen aufzustehen, nach vorne zu gehen und zu visualisieren/malen was sie denken.
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+==== Was sollen die Teilnehmer verstehen?
+- Visualisierung dient auch zur Konsensfindung.
+- Visualisierung fördert Transparenz und gemeinsames Verständnis.
+- Visualisierung fördert Klärungsprozesse.
+- Visualisierung ist ein verknüpfendes Thema.
+- Es gibt einen Unterschied zwischen Visualisierung in der Moderation und Visualisierung der eigenen Ideen durch jemand Dritten.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
-
-[[LZ-3-2]]
-==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
-
+==== Was sollen die Teilnehmer kennen?
+- Umgang mit Whiteboard, Flipchart, Metaplanwänden und -karten
+- Was kommt konkret wo in der Praxis zum Einsatz
+- Wann lohnt sich Visualisierung
 // end::DE[]
 
 // tag::EN[]
-[[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== What should the participants be able to do?
+- The participants have gained an impression of how they can use visualisation techniques for reaching a consensus and for joint development of results.
+- The participants should feel motivated to stand up, go to the front and visualise or draw what they’re thinking.
 
-[[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
+==== What should the participants understand?
+- Visualisation can also be used to reach a consensus.
+- Visualisation increases transparency and a common understanding.
+- Visualisation supports clarification processes.
+- Visualisation is a linking topic.
+- There’s a difference between visualisation for moderation purposes and someone else visualising their own ideas.
+
+==== What should the participants know?
+- How to use whiteboards, flipcharts and metaplan boards and cards
+- What is used where in practice
+- When visualisation makes sense
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
 ====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+**TODO**: als Lernziele formulieren
 ====
 // end::REMARK[]

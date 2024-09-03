@@ -1,6 +1,6 @@
 === {references}
 
-<<starke>>
+<<glasl>>, <<vigenschow>>
 
 // tag::REMARK[]
 [NOTE]
