@@ -16,5 +16,4 @@ Definitionen, Konfliktarten, Konfliktanalyse, Konfliktstufen nach Glasl.
 Definitions, types of conflicts, conflict analysis, Glasl’s conflict stages.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

@@ -47,9 +47,7 @@
 - Knowledge of how they wish to improve their own skills
 // end::EN[]
 
-// tag::REMARK[]
 [NOTE]
 ====
 **TODO**: als Lernziele formulieren
 ====
-// end::REMARK[]

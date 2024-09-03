@@ -37,5 +37,4 @@ Knowledge in the following areas may be **helpful** for understanding some conce
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

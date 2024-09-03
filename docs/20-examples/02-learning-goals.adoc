@@ -26,5 +26,4 @@ A description of what the participants should learn about conducting group discu
 - The participants gain new knowledge about the individual challenges in the context of their own work, and are inspired to face up to them and find solutions.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

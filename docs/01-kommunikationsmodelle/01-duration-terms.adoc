@@ -18,5 +18,4 @@ Definitions, Freud’s iceberg model, Schulz von Thun’s 4 aspects of a message
 tion, assumption and judgement.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

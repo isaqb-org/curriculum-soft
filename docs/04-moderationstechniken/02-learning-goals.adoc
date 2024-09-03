@@ -36,9 +36,7 @@
 - Further literature.
 // end::EN[]
 
-// tag::REMARK[]
 [NOTE]
 ====
 **TODO**: als Lernziele formulieren
 ====
-// end::REMARK[]

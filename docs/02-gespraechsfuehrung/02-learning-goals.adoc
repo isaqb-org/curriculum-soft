@@ -40,9 +40,7 @@
 - Different presentation methods, depending on the respective situation.
 // end::EN[]
 
-// tag::REMARK[]
 [NOTE]
 ====
 **TODO**: als Lernziele formulieren
 ====
-// end::REMARK[]

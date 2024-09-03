@@ -19,9 +19,7 @@ Within each licenced training course, at least 3 examples of group discussions a
 The nature and characteristics of additional examples presented can vary depending on the training and/or the interests of the participants, and are not specified by the iSAQB.
 // end::EN[]
 
-// tag::REMARK[]
 [NOTE]
 ====
 Sinnvolle Zeiten für Dauer und Übungszeit eintragen.
 ====
-// end::REMARK[]

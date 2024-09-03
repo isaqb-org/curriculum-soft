@@ -16,5 +16,4 @@ Definitionen, aktives Zuhören, Feedback geben, Reflektionswerkzeuge.
 Definitions, active listening, providing feedback, reflection tools.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

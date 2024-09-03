@@ -16,5 +16,4 @@ Definitionen, Rollenverständnis des Moderators, verschiedene Moderationstechnik
 Definitions, the role of the moderator, different moderation techniques, stages in decision-making.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

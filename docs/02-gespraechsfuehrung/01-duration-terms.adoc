@@ -19,5 +19,4 @@ sions, follow-up activities, the course of a discussion, discussion settings.
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+

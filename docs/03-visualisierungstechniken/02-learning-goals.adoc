@@ -36,8 +36,6 @@
 - When visualisation makes sense
 // end::EN[]
 
-// tag::REMARK[]
 ====
 **TODO**: als Lernziele formulieren
 ====
-// end::REMARK[]

@@ -16,5 +16,4 @@ Visualisierungstechniken, Bedeutung von Visualisierung, Vor- und Nachteile unter
 Visualisation techniques, importance of visualisation, advantages and disadvantages of different visualisation media (metaplan board, whiteboard, flipchart, slides, PowerPoint, tools).
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
+
