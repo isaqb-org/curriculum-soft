@@ -38,4 +38,4 @@ This section contains references that are cited in the curriculum.
 
 **V**
 
-- [[[vigenschow, Vigenschow+ 2014]]] Vigenschow, U., Schneider, B., Meyrose, I.: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle.
+- [[[vigenschow, Vigenschow+ 2019]]] Vigenschow, U., Schneider, B., Meyrose, I.: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle.
