@@ -1,20 +1,8 @@
 // tag::DE[]
 === Voraussetzungen
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+Die kommunikativen Herausforderungen von Softwarearchitekt:innen theorertisch und / oder praktisch zu kennen ist empfehlenswert.
 
-- Software-Entwicklung ist Kommunikation
-- Architekten vertreten die IT-Seite und unterstützen Requirements Ingenieure/Software-Analytiker in deren Rolle als Vermittler zwischen Fachseite und IT-Seite
-- Menschen zu respektieren und mit ihnen erfolgreich zu kommunizieren ist eine wichtige Fähigkeit für Architekten
-
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
-
-- Kenntnis typischer Herausforderungen bei der Interaktion mit anderen Menschen
-  * Der andere „versteht mich nicht“
-  * Es gibt einen Konflikt
-  * Architekten hängen im Gespräch ihre Gesprächspartner gelegentlich ab
-  * Komplizierte Sachverhalte brauchen Bilder, um besser verstanden zu werden
-  * Gemeinsam Lösungen zu finden ist nicht einfach
 // end::DE[]
 
 // tag::EN[]
