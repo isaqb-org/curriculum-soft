@@ -7,7 +7,7 @@ Oft stehen allzu menschliche Eigenschaften der rein sachlichen Kommunikation im 
 
 Die Schulung geht auf die kontextüblichen Arbeitssituationen von Architekt:innen als "Nabe im Rad" konkret ein und liefert pragmatisches Handwerkszeug, um den eigenen Soft-Skills-Baukasten anzureichern und angemessen konstruktiv Herausforderungen in der Architekturarbeit zu handhaben.
 
-Die in der Schulung „Soft Skills für Architekten“ gelernten Inhalte werden in der Prüfung zum iSAQB-CPSAA nicht geprüft. Es wird jedoch von Prüflingen erwartet, dass sie ihre Soft Skills nutzen, um die Lösung, die für die Prüfungsaufgabe gefunden wurde, verständlich zu präsentieren und zu diskutieren.
+Die in der Schulung „Soft Skills für Architekt:innen“ gelernten Inhalte werden in der Prüfung zum iSAQB-CPSA^(R)^-A nicht geprüft. Es wird jedoch von Prüflingen erwartet, dass sie ihre Soft Skills nutzen, um die Lösung, die für die Prüfungsaufgabe gefunden wurde, verständlich zu präsentieren und zu diskutieren.
 
 Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
 
