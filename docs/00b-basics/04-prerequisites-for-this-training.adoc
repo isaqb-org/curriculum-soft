@@ -1,7 +1,7 @@
 // tag::DE[]
 === Voraussetzungen
 
-Die kommunikativen Herausforderungen von Softwarearchitekt:innen theorertisch und / oder praktisch zu kennen ist empfehlenswert.
+Die kommunikativen Herausforderungen von Software-Architekt:innen theoretisch und / oder praktisch zu kennen, ist empfehlenswert.
 
 // end::DE[]
 
