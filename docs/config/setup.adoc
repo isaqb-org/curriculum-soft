@@ -15,7 +15,7 @@
 :curriculum-short: SOFT
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Soft Skills für Architekten
+:curriculum-name: Soft Skills für Architekt:innen
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
