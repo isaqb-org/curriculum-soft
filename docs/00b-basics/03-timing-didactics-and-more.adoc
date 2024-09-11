@@ -6,10 +6,9 @@
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
 
-Die genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul {curriculum-short}
-sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
-Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
-Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
+Die genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul SOFT sollte mindestens 3 Tage betragen, kann aber länger sein. Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden. Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
+
+Die erwähnten Techniken, Modelle und Werkzeuge sind Möglichkeiten, den Teilnehmenden die Lernziele zu vermitteln. Von diesen Vorschlägen können Trainer:innen abweichen, wenn sie begründen können, warum eine andere Vermittlungstechnik die Lernziele ebenso adressiert. Alle Inhalte sollen an Beispielen der Teilnehmenden reflektiert und mit passenden praxisnahen Übungen in den Alltag der Teilnehmenden transferiert werden.
 
 Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
 
