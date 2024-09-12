@@ -1,23 +1,28 @@
 === {learning-goals}
 
 // tag::DE[]
-==== Was sollen die Teilnehmer können?
-- Die TN können Einzel-, Gruppengespräche sowie Präsentationen auf Basis unterschiedlicher Kommunikationsmodelle einschätzen.
-- TN können Einzel- und Gruppengespräche selbstständig strukturiert vorbereiten.
-- TN können Einzel- und Gruppengespräche durchführen.
-- TN können Einzel- und Gruppengespräche nachbereiten.
-- Die TN haben Methoden der Gesprächsführung (aktiv zuhören, fragen/nachfragen, zusammenfassen) kennen- und anwenden gelernt.
 
-==== Was sollen die Teilnehmer verstehen?
-- Die Teilnehmer verstehen um die Bedeutung und Effektivität einer wohlgeplanten Gesprächsvorbereitung.
-- Die Teilnehmer verstehen die Struktur eines Gesprächsablaufs und stellen sich darauf ein.
-- Die Teilnehmer verstehen die Bedeutung einer Gesprächsnachbereitung.
-- Die TN sind in der Lage, eine Unterschiedlichkeit zwischen Sach- und Prozessebene zu erkennen.
-- Die Teilnehmer verstehen, dass sie durch eine intensive Gesprächsvorbereitung in der Lage sind, sich situativ auf das aktuelle Geschehen/ungeplante Veränderungen einzustellen und dass sie ihrer inneren Freiheit/ihren Fähigkeiten vertrauen können.
+[[LZ-2-1]]
+==== LZ 2-1: Gespräche selbständig und strukturiert vorbereiten
 
-==== Was sollen die Teilnehmer kennen?
-- Situationen, in denen die TN Einzelgespräche oder Gruppengespräche führen
-- Unterschiedliche, der jeweiligen Situation angemessene Präsentationstechnik
+Die Teilnehmer:innen verstehen um die Bedeutung und Effektivität einer wohlgeplanten Gesprächsvorbereitung. Sie verstehen, dass sie durch eine intensive Gesprächsvorbereitung in der Lage sind, sich situativ auf das aktuelle Geschehen/ungeplante Veränderungen einzustellen und dass sie ihren Fähigkeiten vertrauen können. Die Teilnehmer:innen können Einzel-, Gruppengespräche sowie Präsentationen auf Basis unterschiedlicher Kommunikationsmodelle einschätzen. Sie verstehen die Struktur eines Gesprächsablaufs und bereiten angemessene spontane Gesprächssituationen und geplante Meetings vor.
+
+[[LZ-2-2]]
+==== LZ 2-2: Gespräche souverän und situativ angemessen durchführen
+
+Die Teilnehmer:innen sind in der Lage, eine Unterschiedlichkeit zwischen Sach- und Prozessebene zu erkennen. Sie kennen den Unterschied zwischen Überzeugung, Durchsetzung und Manipulation. Außerdem erkennen sie, wann ein Gruppen- bzw. ein Einzelsetting geeignet ist. Sie kennen Methoden der Gesprächsführung und können sie anwenden, z.B.
+
+- aktives Zuhören
+- Fragetechniken
+- 4-Quadranten-Modell.
+- drei Seiten der Überzeugung nach Aristoteles (Glaubwürdigkeit, Kompetenz, Sympathie)
+- Manipulationstechniken (z.B. Reziprozität, Autorität, Sympathie, Knappheit)
+
+[[LZ-2-3]]
+==== LZ 2-3: Gespräche inhaltlich und reflektiv nachbereiten können
+
+Die Teilnehmer:innen verstehen die Bedeutung einer Gesprächsnachbereitung für Teilnehmer:innen und als Reflexionsmöglichkeit für sich selbst.
+
 // end::DE[]
 
 // tag::EN[]
@@ -38,9 +43,11 @@
 ==== What should the participants know?
 - Situations in which the participants conduct one-on-one or group discussions
 - Different presentation methods, depending on the respective situation.
-// end::EN[]
 
 [NOTE]
 ====
-**TODO**: als Lernziele formulieren
+**TODO**: explizite Lernziele aus DE übernehmen
 ====
+
+// end::EN[]
+
