@@ -9,7 +9,7 @@ Die Teilnehmer:innen können zwischen Rolle „Moderation“ (mit absichtslosem 
 Sie sind in der Lage aus der Architekturrolle heraus zu entscheiden, wann empfängergerechte Inputs hilfreich wären, um den Lösungsprozess zu unterstützen. Außerdem ist ihnen bewusst, welche Aufgaben und Verantwortlichkeiten Moderator:innen und Gesprächsteilnehmer:innen haben.
 
 [[LZ-4-2]]
-==== LZ 4-2: Eine Moderation inkl. passender Moderationswerkzeuge durchführen können
+==== LZ 4-2: Eine Moderation inkl. passender Moderationswerkzeuge durchführen
 
 Teilnehmer:innen können zur Unterstützung der Lösungsfindung und Konfliktprävention Methoden und Techniken zur Durchführung von Gruppensituationen sowie zur Gesprächsführung in Gruppen anwenden. Moderationstechniken könnten z.B. sein:
 
@@ -21,7 +21,7 @@ Teilnehmer:innen können zur Unterstützung der Lösungsfindung und Konfliktprä
 
 
 [[LZ-4-3]]
-==== LZ 4-3: Entscheidungsfindung mit der Gruppe vorbereiten und durchführen können
+==== LZ 4-3: Entscheidungsfindung mit der Gruppe vorbereiten und durchführen
 
 Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) und in der Rolle „Moderation“ können die Teilnehmer:innen geeignete Entscheidungsfindungswerkzeuge auswählen und Architektur-Entscheidungen in der Gruppe herbeizuführen. Geeignete Werkzeuge könnten sein:
 

@@ -3,7 +3,7 @@
 // tag::DE[]
 
 [[LZ-5-1]]
-==== LZ 5-1: Konflikte bedarfsgerecht analysieren können
+==== LZ 5-1: Konflikte bedarfsgerecht analysieren
 
 Um in Konfliktsituationen handlungs- und arbeitsfähig zu bleiben, sollten Teilnehmer:innen Konflikte mit Werkzeugen wie z.B.:
 
@@ -13,7 +13,7 @@ Um in Konfliktsituationen handlungs- und arbeitsfähig zu bleiben, sollten Teiln
 analysieren können. Sie sollten außerdem in einer Konfliktsituation erkennen können, ob sie den Konflikt eigenverantwortlich lösen können und geeignete  Deeskalations- und Delegationswege sowie weitere Lösungsstrategien ableiten können.
 
 [[LZ-5-2]]
-==== LZ 5-2: Eigenes Konfliktverhalten reflektieren können
+==== LZ 5-2: Eigenes Konfliktverhalten reflektieren
 
 Teilnehmer:innen sollten verstehen, dass konstruktive Konfliktlösungen zu Wachstum und Lernen beitragen.
 Außerdem sollte ihnen bewusst sein, welchen Anteil sie selbst, die Organisation, technologische und Zusammenarbeitsprozesse am Konflikt haben könnten.
