@@ -53,9 +53,11 @@ Darüber hinaus ist Teilnehmer:innen bewusst, dass die Dokumentation und Kommuni
 ==== What should the participants know?
 - Experience with moderation situations
 - Further literature.
-// end::EN[]
 
 [NOTE]
 ====
-**TODO**: als Lernziele formulieren
+**TODO**: explizite Lernziele aus DE übernehmen
 ====
+
+// end::EN[]
+

@@ -35,8 +35,11 @@ Die Teilnehmer:innen kennen Offline- und Online-Visualisierungstechniken wie z.B
 - How to use whiteboards, flipcharts and metaplan boards and cards
 - What is used where in practice
 - When visualisation makes sense
-// end::EN[]
 
+
+[NOTE]
 ====
-**TODO**: als Lernziele formulieren
+**TODO**: explizite Lernziele aus DE übernehmen
 ====
+
+// end::EN[]
