@@ -1,21 +1,40 @@
 === {learning-goals}
 
 // tag::DE[]
-==== Was sollen die Teilnehmer können?
-- Die TN können ihre Rolle gemäß der Anforderungen der konkreten Gruppensituation zwischen den Polen „Moderator“ (Prozessebene) und „Entscheider“ (fachliche Ebene) bestimmen und können sie in der Gruppe transparent machen.
-- Sie können zur Unterstützung der Lösungsfindung Methoden und Techniken zur Vorbereitung und Durchführung von Gruppensituationen sowie zur Gesprächsführung in Gruppen anwenden.
-- Sie sind in der Lage, Architekturentscheidungen in der Gruppe herbeizuführen.
-- Sie sind in der Lage, empfängergerecht Inputs zu geben, um den Lösungsprozess zu unterstützen.
 
-==== Was sollen die Teilnehmer verstehen?
-- Die Anforderungen, die die Rolle eines Moderators an den Architekten stellt.
-- Die Abgrenzung zwischen der Rolle des Moderators (mit absichtslosem Interesse am Ergebnis einen Lösungsprozess unterstützen) versus der Rolle des Entscheiders/Architekten (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken).
-- Welche Teile der Moderatorenrolle dem Architekten helfen, in Zukunft für tragfähige und konstruktive Lösungen zu sorgen.
-- Architektur beinhaltet neben technischen Aspekten einen hohen Anteil an Moderationsgeschick, um reibungsarm miteinander zu arbeiten.
+[[LZ-4-1]]
+==== LZ 4-1: Die Verantwortlichkeiten einer Moderationsrolle verstehen
 
-==== Was sollen die Teilnehmer kennen?
-- Erfahrungen mit Moderationssituationen
-- Weiterführende Literatur
+Die Teilnehmer:innen können zwischen Rolle „Moderation“ (mit absichtslosem Interesse am Ergebnis einen Lösungsprozess unterstützen) versus Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) unterscheiden. 
+Sie sind in der Lage aus der Architekturrolle heraus zu entscheiden, wann empfängergerechte Inputs hilfreich wären, um den Lösungsprozess zu unterstützen. Außerdem ist ihnen bewusst, welche Aufgaben und Verantwortlichkeiten Moderator:innen und Gesprächs-Teilnehmer:innen haben.
+
+[[LZ-4-2]]
+==== LZ 4-2: Eine Moderation inkl. passender Moderationswerkzeuge durchführen können
+
+Teilnehmer:innen können zur Unterstützung der Lösungsfindung und Konfliktprävention Methoden und Techniken zur Durchführung von Gruppensituationen sowie zur Gesprächsführung in Gruppen anwenden. Moderationstechniken könnten z.B. sein:
+
+- Kreativitätstechniken wie Brainstorming
+- Zuruf-/Kartenabfragen
+- Dot Voting
+- Time Boxing
+- Mindmapping & Matrixdarstellungen
+
+
+[[LZ-4-3]]
+==== LZ 4-3: Entscheidungsfindung mit der Gruppe vorbereiten und durchführen können
+
+Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) und in der Rolle „Moderation“ können die Teilnehmer:innen geeignete Entscheidungsfindungswerkzeuge auswählen und Architektur-Entscheidungen in der Gruppe herbeizuführen. Geeignete Werkzeuge könnten sein:
+
+- Fist of five oder Delegation Level
+- Letzter vernünftiger Moment (LVM)
+- Set-Based Design
+- Eisenhower-Prinzip
+- MoSCoW
+- Weighted-Shortest-Job-First (WSJF)
+- Relative-Weight
+
+Darüber hinaus ist Teilnehmer:innen bewusst, dass die Dokumentation und Kommunikation von Architektur-Entscheidungen wichtig ist und Konflikten präventiv entgegen wirken kann. Hierfür eignen sich z.B. Werkzeuge wie Architecture Decision Records.
+
 // end::DE[]
 
 // tag::EN[]

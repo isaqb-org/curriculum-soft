@@ -4,7 +4,8 @@
 |===
 
 === Begriffe und Konzepte
-Definitionen, Rollenverständnis des Moderators, verschiedene Moderationstechniken, Stufen der Entscheidungsfindung.
+Rollenverständnis der Moderationsrolle, verschiedene Moderationstechniken, Entscheidungsfindungstechniken
+
 // end::DE[]
 
 // tag::EN[]
