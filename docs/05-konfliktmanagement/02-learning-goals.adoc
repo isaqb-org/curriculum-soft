@@ -1,23 +1,28 @@
 === {learning-goals}
 
 // tag::DE[]
-==== Was sollen die Teilnehmer können?
-- Die TN können bedarfsgerecht eine Konfliktanalyse durchführen, um handlungs- und arbeitsfähig zu bleiben.
-- Die TN können in einer Konfliktsituation erkennen, ob sie den Konflikt eigenverantwortlich lösen können.
-- Die TN finden sowohl eigene Deeskalationswege als auch Wege der Delegation und Eskalation.
 
-==== Was sollen die Teilnehmer verstehen?
-- Verschiedene Konfliktarten benötigen unterschiedliche Lösungswege in der Klärung.
-- Konfliktanalysen unterstützen darin, zweckmäßige von unzweckmäßigen Lösungswegen zu unterscheiden.
-- Konstruktive Konfliktlösungen tragen zu Wachstum und Lernen bei.
-- Konflikte lassen sich nur unter gewissen Voraussetzungen eigenverantwortlich lösen.
-- Die TN sind nicht dafür verantwortlich, die Lösung für einen Konflikt zu liefern.
+[[LZ-5-1]]
+==== LZ 5-1: Konflikte bedarfsgerecht analysieren können
 
-==== Was sollen die Teilnehmer kennen?
-- Die für den Arbeitskontext der SW-Architektur wichtigsten Konfliktsituationen und deren Beteiligte (z. B. Fachbereich/Entwicklung, Entwicklung/Betrieb, Entwicklung/Support, usw.)
-- Die Konfliktstufen nach Glasl
-- Eigenverantwortliche Konfliktlösungswege
-- Wege der Delegation und der Eskalation
+Um in Konfliktsituationen handlungs- und arbeitsfähig zu bleiben, sollten Teilnehmer:innen Konflikte mit Werkzeugen wie z.B.:
+
+- Konfliktarten
+- Konfliktstufen nach Glasl 
+
+analysieren können. Sie sollten außerdem in einer Konfliktsituation erkennen können, ob sie den Konflikt eigenverantwortlich lösen können und geeignete  Deeskalations- und Delegationswege sowie weitere Lösungsstrategien ableiten können.
+
+[[LZ-5-2]]
+==== LZ 5-2: Eigenes Konfliktverhalten reflektieren können
+
+Teilnehmer:innen sollten verstehen, dass konstruktive Konfliktlösungen zu Wachstum und Lernen beitragen.
+Außerdem sollte ihnen bewusst sein, welchen Anteil sie selbst, die Organisation, technologische und Zusammenarbeitsprozesse am Konflikt haben könnten.
+
+[[LZ-5-3]]
+==== LZ 5-3: Konflikte lösen
+
+Da verschiedene Konfliktarten und -eskalationsstufen unterschiedliche Lösungswege in der Klärung benötigen, sollten Teilnehmer:innen diese kennen und anwenden können. Außerdem sollten sie Ansätze kennen, wie Konflikte auch präventiv behandelt werden können. 
+
 // end::DE[]
 
 // tag::EN[]
