@@ -1,6 +1,0 @@
-=== {references}
-
-<<bachmann>>, <<kruchten>>
-
-
-

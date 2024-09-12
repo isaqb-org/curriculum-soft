@@ -56,10 +56,4 @@ include::04-moderationstechniken/00-structure.adoc[{include_configuration}]
 include::05-konfliktmanagement/00-structure.adoc[{include_configuration}]
 
 <<<
-include::06-reflektionstechniken/00-structure.adoc[{include_configuration}]
-
-<<<
-include::20-examples/00-examples.adoc[{include_configuration}]
-
-<<<
 include::99-references/00-references.adoc[{include_configuration}]
