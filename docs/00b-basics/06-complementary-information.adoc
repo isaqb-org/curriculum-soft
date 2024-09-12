@@ -1,13 +1,13 @@
 // tag::DE[]
 === Ergänzende Informationen, Begriffe, Übersetzungen
 
-Architekten benötigen Soft Skills in ihrem Alltag. Sie stehen in kontinuierlichem Dialog mit Stakeholdern, Requirements-Ingenieuren, Entwicklung und Qualitätssicherung. Dabei treffen sie Entwurfsentscheidungen auf Basis der Information aus vielen unterschiedlichen Gesprächen, die sie mit Personen mit unterschiedlichen Interessen geführt haben. In diesem Spannungsfeld müssen sie in der Lage sein, die für die Entscheidung maßgeblich wichtigen Inhalte zu erkennen und herauszuarbeiten. Ihre Entscheidungen wiederum klar nachvollziehbar darzustellen, ist eine weitere Herausforderung.
+Architekt:innen benötigen Soft Skills in ihrem Alltag. Sie stehen in kontinuierlichem Austausch mit Stakeholdern, Requirements-Ingenieur:innen, Entwicklung und Qualitätssicherung. Dabei treffen sie häufig gemeinsam mit anderen Entwurfsentscheidungen auf Basis der Information aus vielen unterschiedlichen Gesprächen, die sie mit Personen mit unterschiedlichen Interessen geführt haben. In diesem Spannungsfeld müssen sie in der Lage sein, die für die Entscheidung maßgeblich wichtigen Inhalte zu erkennen und herauszuarbeiten. Ihre Entscheidungen wiederum klar nachvollziehbar darzustellen, ist eine weitere Herausforderung.
 
 Oft stehen allzu menschliche Eigenschaften der rein sachlichen Kommunikation im Weg, so dass Missverständnisse und Befindlichkeiten den Entscheidungsprozess und das reibungslose Zusammenarbeiten behindern können. Konflikte können so leicht entstehen.
 
-Die Schulung geht auf die kontextüblichen Arbeitssituationen von Architekten als "Nabe im Rad" konkret ein und liefert pragmatisches Handwerkszeug, um den eigenen Soft-Skills-Baukasten anzureichern und angemessen konstruktiv die Herausforderungen eines Architekten zu handhaben.
+Die Schulung geht auf die kontextüblichen Arbeitssituationen von Architekt:innen als "Nabe im Rad" konkret ein und liefert pragmatisches Handwerkszeug, um den eigenen Soft-Skills-Baukasten anzureichern und angemessen konstruktiv Herausforderungen in der Architekturarbeit handzuhaben.
 
-Die in der Schulung „Soft Skills für Architekten“ gelernten Inhalte werden in der Prüfung zum iSAQB-CPSA-A nicht geprüft. Es wird jedoch vom Prüfling erwartet, dass er seine Soft Skills nutzt, um die Lösung, die er für die Prüfungsaufgabe gefunden hat, verständlich zu präsentieren und zu diskutieren.
+Die in der Schulung „Soft Skills für Architekt:innen“ gelernten Inhalte werden in der Prüfung zum iSAQB-CPSA^(R)^-A nicht geprüft. Es wird jedoch von Prüflingen erwartet, dass sie ihre Soft Skills nutzen, um die Lösung, die für die Prüfungsaufgabe gefunden wurde, verständlich zu präsentieren und zu diskutieren.
 
 Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
 
