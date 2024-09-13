@@ -49,7 +49,11 @@ Sie können eine Stakeholderanalyse durchführen mit Werkzeugen wie z.B.
 - Beziehungs-Map bzw. Abhängigkeitsanalyse
 - RACI-Matrix
 
-Die Teilnehmer:innen können Maßnahmen aus der Stakeholderanalyse ableiten (z.B. Risiken und entsprechende Minderungsmaßnahmen ausarbeiten, kommunizieren und einplanen, Maßnahmen zur Sicherstellung der Stakeholder-Zufriedenheit ausarbeiten, kommunizieren und einplanen, Stakeholder-Kommunikationsplan erstellen)
+Die Teilnehmer:innen können Maßnahmen aus der Stakeholderanalyse ableiten wie z.B. 
+
+- Risiken und entsprechende Minderungsmaßnahmen ausarbeiten, kommunizieren und einplanen
+- Maßnahmen zur Sicherstellung der Stakeholder-Zufriedenheit ausarbeiten, kommunizieren und einplanen
+- Stakeholder-Kommunikationsplan erstellen
 
 // end::DE[]
 
