@@ -5,7 +5,7 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Die Verantwortlichkeiten einer Moderationsrolle verstehen
 
-Die Teilnehmer:innen können zwischen Rolle „Moderation“ (mit absichtslosem Interesse am Ergebnis einen Lösungsprozess unterstützen) versus Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) unterscheiden. 
+Die Teilnehmer:innen können zwischen Rolle „Moderation“ (mit absichtslosem Interesse am Ergebnis einen Lösungsprozess unterstützen) und Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) unterscheiden. 
 Sie sind in der Lage aus der Architekturrolle heraus zu entscheiden, wann empfängergerechte Inputs hilfreich wären, um den Lösungsprozess zu unterstützen. Außerdem ist ihnen bewusst, welche Aufgaben und Verantwortlichkeiten Moderator:innen und Gesprächsteilnehmer:innen haben.
 
 [[LZ-4-2]]
