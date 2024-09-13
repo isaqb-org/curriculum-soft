@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Definitionen, Kompetenz-Rad, 4 Seiten einer Nachricht nach Schulz von Thun, 4-Quadranten-Modell/4MAT, Stakeholder-Map und -Analyse, 16 Lebensmotive nach Reiss, Maslowsche Bedürfnishierarchie
+Definitionen, Kompetenzrad, 4 Seiten einer Nachricht nach Schulz von Thun, 4-Quadranten-Modell/4MAT, Stakeholder-Map und -Analyse, 16 Lebensmotive nach Reiss, Maslowsche Bedürfnishierarchie
 
 // end::DE[]
 
