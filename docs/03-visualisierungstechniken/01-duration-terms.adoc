@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Visualisierungstechniken, Bedeutung von Visualisierung, Vor- und Nachteile unterschiedlicher Visualisierungsmedien (Metaplanwand, Whiteboard, Flipchart, Folien, PowerPoint, Hilfsmittel).
+Präsentation, Visualisierungstechniken (physisch und virtuell), Bedeutung von Visualisierung, Vor- und Nachteile unterschiedlicher Visualisierungsmedien.
 // end::DE[]
 
 // tag::EN[]

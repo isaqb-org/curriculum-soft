@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Definitionen, Konfliktarten, Konfliktanalyse, Konfliktstufen nach Glasl.
+Definitionen, Konfliktanalyse, Eisbergmodell nach Freud, Konfliktarten, Konfliktstufen nach Glasl. 
 // end::DE[]
 
 // tag::EN[]

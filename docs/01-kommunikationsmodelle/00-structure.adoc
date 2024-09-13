@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Grundlagen zu Kommunikationsmodellen und -Typen
+== Grundlagen der Kommunikation
 // end::DE[]
 
 // tag::EN[]

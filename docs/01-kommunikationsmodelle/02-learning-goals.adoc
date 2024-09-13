@@ -1,26 +1,59 @@
 === {learning-goals}
 
 // tag::DE[]
-==== Was sollen die Teilnehmer können?
-- Die Teilnehmer (TN) kennen verschiedene Kommunikationsmodelle und –typen.
-- TN können einschätzen, in welchen Typologien sie selbst sowie ihre Gesprächspartner sich situativ befinden. TN berücksichtigen dabei, dass Typologien auch zu Schubladendenken führen können und deshalb vorsichtig genutzt werden sollten.
-- TN können ihre Kommunikation dem jeweiligen Bedarf des Anderen anpassen.
 
-==== Was sollen die Teilnehmer verstehen?
-- Der Mitmensch ist anders als ich
-- Den Kommunikationstyp des anderen zu kennen kann im Gespräch helfen
-- Inhalte sind beim Sprechen das Wenigste
-- Menschen agieren nicht (nur) rational, und das ist OK!
-- Modelle sind zu simpel und trotzdem hilfreich
-- Meine innere Haltung wirkt sich auf das Gespräch aus
-- Es gibt nicht das „Eigentum der alleinigen Wahrheit“
-- Ressourcenorientierte versus defizitäre Kommunikation
+[[LZ-1-1]]
+==== LZ 1-1: Kompetenzarten und deren Erlangen kennen und unterscheiden können
 
-==== Was sollen die Teilnehmer kennen?
-- Die eigenen Annahmen darüber, wie Kommunikation funktioniert
-- Situationen, in denen Kommunikation klappte und solche, in denen sie fehlschlug
-- Die eigenen Stärken und Schwächen in konkreten Kommunikationssituationen
-- Erkenntnis über den eigenen Entwicklungswunsch
+Die Teilnehmer:innen können die vier Kompetenzen (Fach-, Methoden-, Sozial- und Persönlichkeits-Kompetenz) unterscheiden und verstehen, dass es unterschiedliche Wege gibt, diese auszubauen (Wissensvermittlung, Übung, Reflexion).
+
+[[LZ-1-2]]
+==== LZ 1-2: Grundlagen zu Kommunikationsmodellen und -Typen kennen und zur Reflexion anwenden können
+
+Die Teilnehmer:innen verstehen, dass ihre innere Haltung sich auf Gespräche auswirkt.
+Sie kennen verschiedene Kommunikationsmodelle und –typen wie z.B.: 
+
+* 4-Quadranten-Modell
+* 4 Seiten einer Nachricht
+* 16 Lebensmotive
+
+Die Teilnehmer:innen berücksichtigen, dass Typologien zu Schubladendenken führen können und deshalb vorsichtig genutzt werden sollten. Gleichzeitig erkennen sie deren Nutzen zur Selbstreflexion und zielgruppen- bzw. bedürfnisorientierten Gesprächsführung.
+
+[[LZ-1-3]]
+==== LZ 1-3: Feedback als Beitrag zu Lernen verstehen und von Dritten einfordern können 
+
+Teilnehmer:innen sind in der Lage, von dritten Personen Feedback einzufordern.
+Sie verstehen Feedback als einen Beitrag zu Lernen, kennen die Regeln zum Nehmen von Feedback und halten diese ein.
+
+[[LZ-1-4]]
+==== LZ 1-4: Konstruktiv Feedback geben 
+
+Die Teilnehmer:innen verstehen, dass sie durch regelmäßige Reflektion eine Klarheit über ihr Eigenbild und Fremdbild erhalten.
+Es wird ihnen klar, dass regelmäßige Feedbacks die konstruktive Zusammenarbeit fördern und damit auch zu nachhaltigen Arbeitsergebnissen beitragen.
+Die Teilnehmer:innen kennen die Regeln zum Geben von Feedback und halten diese ein.
+
+[[LZ-1-5]]
+==== LZ 1-5: Sich selbst reflektieren
+
+Die Teilnehmer:innen verstehen, dass sie durch regelmäßige Reflektion eine Klarheit über ihr Eigenbild und Fremdbild erhalten.
+
+
+[[LZ-1-6]]
+==== LZ 1-6: Stakeholder der Softwarearchitektur analysieren und Kommunikation zielgruppenorientiert anwenden können
+
+Die Teilnehmer:innen können typische Stakeholder aus Sicht von Softwarearchitekt:innen identifizieren (z.B. Entwickler:innen, Management, Betrieb, Kunden) und deren Anliegen verstehen (z.B. via Maslowsche Bedürfnishierarchie).
+
+Sie können eine Stakeholderanalyse durchführen mit Werkzeugen wie z.B. 
+
+- Stakeholder-Map
+- Beziehungs-Map bzw. Abhängigkeitsanalyse
+- RACI-Matrix
+
+Die Teilnehmer:innen können Maßnahmen aus der Stakeholderanalyse ableiten wie z.B. 
+
+- Risiken und entsprechende Minderungsmaßnahmen ausarbeiten, kommunizieren und einplanen
+- Maßnahmen zur Sicherstellung der Stakeholder-Zufriedenheit ausarbeiten, kommunizieren und einplanen
+- Stakeholder-Kommunikationsplan erstellen
 
 // end::DE[]
 
@@ -45,9 +78,10 @@
 - Situations in which communication was successful and situations in which it was unsuccessful
 - Their own strengths and weaknesses in specific communication situations
 - Knowledge of how they wish to improve their own skills
-// end::EN[]
 
 [NOTE]
 ====
-**TODO**: als Lernziele formulieren
+**TODO**: explizite Lernziele aus DE übernehmen
 ====
+
+// end::EN[]
