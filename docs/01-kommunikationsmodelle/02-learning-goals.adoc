@@ -44,7 +44,11 @@ Die Teilnehmer:innen verstehen, dass sie durch regelmäßige Reflektion eine Kla
 
 Die Teilnehmer:innen können typische Stakeholder aus Sicht von Softwarearchitekt:innen identifizieren (z.B. Entwickler:innen, Management, Betrieb, Kunden) und deren Anliegen verstehen (z.B. via Maslowsche Bedürfnishierarchie).
 
-Sie können eine Stakeholderanalyse durchführen (z.B. Modelle und Vorgehen einer Stakeholderanalyse kennen, z.B. Stakeholder-Map, Beziehungs-Map bzw. Abhängigkeitsanalyse, RACI-Matrix
+Sie können eine Stakeholderanalyse durchführen mit Werkzeugen wie z.B. 
+
+- Stakeholder-Map
+- Beziehungs-Map bzw. Abhängigkeitsanalyse
+- RACI-Matrix
 
 Die Teilnehmer:innen können Maßnahmen aus der Stakeholderanalyse ableiten (z.B. Risiken und entsprechende Minderungsmaßnahmen ausarbeiten, kommunizieren und einplanen, Maßnahmen zur Sicherstellung der Stakeholder-Zufriedenheit ausarbeiten, kommunizieren und einplanen, Stakeholder-Kommunikationsplan erstellen)
 
