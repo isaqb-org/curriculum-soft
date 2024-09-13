@@ -23,7 +23,7 @@ Teilnehmer:innen können zur Unterstützung der Lösungsfindung und Konfliktprä
 [[LZ-4-3]]
 ==== LZ 4-3: Entscheidungsfindung mit der Gruppe vorbereiten und durchführen
 
-Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) und in der Rolle „Moderation“ können die Teilnehmer:innen geeignete Entscheidungsfindungswerkzeuge auswählen und Architektur-Entscheidungen in der Gruppe herbeizuführen. Geeignete Werkzeuge könnten sein:
+Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der Lösung mitwirken) und in der Rolle „Moderation“ können die Teilnehmer:innen geeignete Entscheidungsfindungswerkzeuge auswählen und Architekturentscheidungen in der Gruppe herbeizuführen. Geeignete Werkzeuge könnten sein:
 
 - Fist of five oder Delegation Level
 - Letzter vernünftiger Moment (LVM)
@@ -33,7 +33,7 @@ Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der L
 - Weighted-Shortest-Job-First (WSJF)
 - Relative-Weight
 
-Darüber hinaus ist Teilnehmer:innen bewusst, dass die Dokumentation und Kommunikation von Architektur-Entscheidungen wichtig ist und Konflikten präventiv entgegen wirken kann. Hierfür eignen sich z.B. Werkzeuge wie Architecture Decision Records.
+Darüber hinaus ist Teilnehmer:innen bewusst, dass die Dokumentation und Kommunikation von Architekturentscheidungen wichtig ist und Konflikten präventiv entgegen wirken kann. Hierfür eignen sich z.B. Werkzeuge wie Architecture Decision Records.
 
 // end::DE[]
 
