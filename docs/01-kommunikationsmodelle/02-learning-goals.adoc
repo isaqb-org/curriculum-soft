@@ -3,12 +3,12 @@
 // tag::DE[]
 
 [[LZ-1-1]]
-==== LZ 1-1: Kompetenzarten und deren Erlangen kennen und unterscheiden können
+==== LZ 1-1: Kompetenzarten und deren Erlangen kennen und unterscheiden
 
 Die Teilnehmer:innen können die vier Kompetenzen (Fach-, Methoden-, Sozial- und Persönlichkeits-Kompetenz) unterscheiden und verstehen, dass es unterschiedliche Wege gibt, diese auszubauen (Wissensvermittlung, Übung, Reflexion).
 
 [[LZ-1-2]]
-==== LZ 1-2: Grundlagen zu Kommunikationsmodellen und -Typen kennen und zur Reflexion anwenden können
+==== LZ 1-2: Grundlagen zu Kommunikationsmodellen und -typen kennen und zur Reflexion anwenden
 
 Die Teilnehmer:innen verstehen, dass ihre innere Haltung sich auf Gespräche auswirkt.
 Sie kennen verschiedene Kommunikationsmodelle und –typen wie z.B.: 
@@ -20,26 +20,26 @@ Sie kennen verschiedene Kommunikationsmodelle und –typen wie z.B.:
 Die Teilnehmer:innen berücksichtigen, dass Typologien zu Schubladendenken führen können und deshalb vorsichtig genutzt werden sollten. Gleichzeitig erkennen sie deren Nutzen zur Selbstreflexion und zielgruppen- bzw. bedürfnisorientierten Gesprächsführung.
 
 [[LZ-1-3]]
-==== LZ 1-3: Feedback als Beitrag zu Lernen verstehen und von Dritten einfordern können 
+==== LZ 1-3: Feedback als Beitrag zu Lernen verstehen und von Dritten einfordern 
 
 Teilnehmer:innen sind in der Lage, von dritten Personen Feedback einzufordern.
 Sie verstehen Feedback als einen Beitrag zu Lernen, kennen die Regeln zum Nehmen von Feedback und halten diese ein.
 
 [[LZ-1-4]]
-==== LZ 1-4: Konstruktiv Feedback geben 
+==== LZ 1-4: Konstruktiv Feedback geben und nehmen 
 
 Die Teilnehmer:innen verstehen, dass sie durch regelmäßige Reflektion eine Klarheit über ihr Eigenbild und Fremdbild erhalten.
 Es wird ihnen klar, dass regelmäßige Feedbacks die konstruktive Zusammenarbeit fördern und damit auch zu nachhaltigen Arbeitsergebnissen beitragen.
 Die Teilnehmer:innen kennen die Regeln zum Geben von Feedback und halten diese ein.
 
 [[LZ-1-5]]
-==== LZ 1-5: Sich selbst reflektieren
+==== LZ 1-5: Sich selbst reflektieren können
 
 Die Teilnehmer:innen verstehen, dass sie durch regelmäßige Reflektion eine Klarheit über ihr Eigenbild und Fremdbild erhalten.
 
 
 [[LZ-1-6]]
-==== LZ 1-6: Stakeholder der Softwarearchitektur analysieren und Kommunikation zielgruppenorientiert anwenden können
+==== LZ 1-6: Stakeholder der Softwarearchitektur analysieren und Kommunikation zielgruppenorientiert anwenden
 
 Die Teilnehmer:innen können typische Stakeholder aus Sicht von Softwarearchitekt:innen identifizieren (z.B. Entwickler:innen, Management, Betrieb, Kunden) und deren Anliegen verstehen (z.B. via Maslowsche Bedürfnishierarchie).
 
