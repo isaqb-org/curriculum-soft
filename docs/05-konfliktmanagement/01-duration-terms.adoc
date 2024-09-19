@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 60 Min.
+| Dauer: 360 Min. | Übungszeit davon: 180 Min.
 |===
 
 === Begriffe und Konzepte
@@ -9,7 +9,7 @@ Definitionen, Konfliktanalyse, Eisbergmodell nach Freud, Konfliktarten, Konflikt
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 60 min
+| Duration: 360 min | Practice time: 180 min
 |===
 
 === Terms and Principles

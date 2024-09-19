@@ -4,12 +4,11 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Grundlagen zu Kommunikationsmodellen und –typen | 180
-| 2. Einzel- und Gruppengesprächsführung | 330
-| 3. Visualisierungstechniken  | 90
-| 4. Moderationstechniken  | 330
-| 5. Grundlagen Konfliktmanagement | 180
-| 6. Reflektionstechniken  | 60
+| 1. Grundlagen der Kommunikation | 330
+| 2. Einzel- und Gruppengesprächsführung | 180
+| 3. Visualisierungstechniken  | 60
+| 4. Moderationstechniken  | 240
+| 5. Grundlagen Konfliktmanagement | 360
 | |
 | Summe | 1170 (19,5h)
 
@@ -24,12 +23,11 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Fundamentals of communication models and types | 180
-| 2. One-on-one and group discussions | 330
-| 3. Visualisation techniques | 90
-| 4. Moderation techniques | 330
-| 5. Fundamentals of conflict management | 180
-| 6. Reflection techniques | 120
+| 1. Fundamentals of communication | 330
+| 2. One-on-one and group discussions | 180
+| 3. Visualisation techniques | 60
+| 4. Moderation techniques | 240
+| 5. Fundamentals of conflict management | 360
 | |
 | Total | 1170 (19.5h)
 

@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 60 Min.
+| Dauer: 330 Min. | Übungszeit davon: 150 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Definitionen, Kompetenzrad, 4 Seiten einer Nachricht nach Schulz von Thun, 4-Qua
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 60 min
+| Duration: 330 min | Practice time: 150 min
 |===
 
 === Terms and Principles
