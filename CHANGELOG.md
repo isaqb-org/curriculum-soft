@@ -4,3 +4,4 @@
 - Prerequisites for the module updated
 - Chapter 6 (Reflection Techniques) combined with Chapter 1 (Communication)
 - Chapter 7 (Examples) removed
+- Duration changed adequately to topic focus
