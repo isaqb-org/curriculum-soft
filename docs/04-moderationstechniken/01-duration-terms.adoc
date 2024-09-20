@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 240 Min. | Übungszeit davon: 120 Min.
+| Dauer: 120 Min. | Übungszeit: 120 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Rollenverständnis der Moderationsrolle, verschiedene Moderationstechniken, Ents
 
 // tag::EN[]
 |===
-| Duration: 240 min | Practice time: 120 min
+| Duration: 120 min | Practice time: 120 min
 |===
 
 === Terms and Principles
