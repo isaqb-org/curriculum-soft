@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 210 Min.
+| Dauer: 90 Min. | Übungszeit: 90 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Aktives Zuhören, Feedback geben, Einzelgesprächsführung, Gruppengesprächsfü
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 210 min
+| Duration: 90 min | Practice time: 90 min
 |===
 
 === Terms and Principles
