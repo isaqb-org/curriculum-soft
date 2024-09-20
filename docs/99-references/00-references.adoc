@@ -20,9 +20,27 @@ This section contains references that are cited in the curriculum.
 
 - [[[graeßner, Graeßner 2013]]] Graeßner, G.: Moderation - das Lehrbuch. 2. Auflage, ZIEL 2013
 
+**H**
+
+- [[[hellmoldt, Hellmoldt+ 2017]]] Alexander Hellmoldt. Manipulationstechniken: Manipulation erkennen, abwehren und gezielt einsetzen. Independently published, 2017. ISBN: 978-1549943140. 
+
+**I**
+
+- [[[ion, Ion+ 2011]]] Frauke Ion, Markus Brand et. al: Die 16 Lebensmotive in der Praxis: Training, Coaching und Beratung nach Steven Reiss. GABAL 2011
+
+**K**
+
+- [[[krips, Krips+ 2017]]] Krips, David: Stakeholdermanagement: Kurzanleitung Heft 5. 2. Auflage, Springer Vieweg 2017
+
 **M**
 
+- [[[maslow, Maslow]]]  Maslowsche Bedürfnishierarchie. https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie
+
 - [[[mayrshofer, Mayrshofer 2006]]] Mayrshofer, D., Kröger, H. A.: Prozesskompetenz in der Projektarbeit. 3. Auflage, Edition Windmühle 2006
+
+**P**
+
+- [[[pink, Pink+2018]]] Daniel Pink: Drive: The Surprising Truth About What Motivates Us, Riverhead publishing. Canongate Books Ltd, 2018
 
 **R**
 
@@ -36,6 +54,14 @@ This section contains references that are cited in the curriculum.
 
 - [[[thun98, Schulz von Thun 1998]]] Schulz von Thun, F.: Miteinander reden 3, Das "Innere Team" und situationsgerechte Kommunikation. Rowohlt Taschenbuch 1998
 
+**U**
+
+- [[[unfix, unFIX]]] unFIX: Decision Patterns, https://unfix.com/decision-patterns
+ 
 **V**
 
 - [[[vigenschow, Vigenschow+ 2019]]] Vigenschow, U., Schneider, B., Meyrose, I.: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. 4. Auflage,  dpunkt.verlag GmbH 2019
+
+**Z**
+
+- [[[zoerner, Zörner 2021]]] Zörner, S.: Software-Architekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten.  Carl Hanser Verlag GmbH & Co. KG, 3. Auflage 2021
