@@ -16,13 +16,13 @@ This section contains references that are cited in the curriculum.
 
 **G**
 
-- [[[glasl, Glasl 2020]]] Glasl, Friedrich: Konfliktfähigkeit statt Streitlust oder Konfliktscheu. 5. Auflage, Verlag am Goetheanum 2020
+- [[[glasl, Glasl 2020]]] Friedrich Glasl: Konfliktfähigkeit statt Streitlust oder Konfliktscheu. 5. Auflage, Verlag am Goetheanum 2020
 
-- [[[graeßner, Graeßner 2013]]] Graeßner, G.: Moderation - das Lehrbuch. 2. Auflage, ZIEL 2013
+- [[[graeßner, Graeßner 2013]]] Gernot Graeßner: Moderation - das Lehrbuch. 2. Auflage, ZIEL 2013
 
 **H**
 
-- [[[hellmoldt, Hellmoldt+ 2017]]] Alexander Hellmoldt. Manipulationstechniken: Manipulation erkennen, abwehren und gezielt einsetzen. Independently published, 2017. ISBN: 978-1549943140. 
+- [[[hellmoldt, Hellmoldt+ 2017]]] Alexander Hellmoldt: Manipulationstechniken: Manipulation erkennen, abwehren und gezielt einsetzen. Independently published, 2017. ISBN: 978-1549943140. 
 
 **I**
 
@@ -30,13 +30,13 @@ This section contains references that are cited in the curriculum.
 
 **K**
 
-- [[[krips, Krips+ 2017]]] Krips, David: Stakeholdermanagement: Kurzanleitung Heft 5. 2. Auflage, Springer Vieweg 2017
+- [[[krips, Krips+ 2017]]] David Krips: Stakeholdermanagement: Kurzanleitung Heft 5. 2. Auflage, Springer Vieweg 2017
 
 **M**
 
-- [[[maslow, Maslow]]]  Maslowsche Bedürfnishierarchie. https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie
+- [[[maslow, Maslow]]] Maslowsche Bedürfnishierarchie. https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie
 
-- [[[mayrshofer, Mayrshofer 2006]]] Mayrshofer, D., Kröger, H. A.: Prozesskompetenz in der Projektarbeit. 3. Auflage, Edition Windmühle 2006
+- [[[mayrshofer, Mayrshofer 2006]]] Daniela Mayrshofer, Hubertus A. Kröger: Prozesskompetenz in der Projektarbeit. 3. Auflage, Edition Windmühle 2006
 
 **P**
 
@@ -44,15 +44,15 @@ This section contains references that are cited in the curriculum.
 
 **R**
 
-- [[[rachow, Rachow 2016]]] Rachow, Axel: Sichtbar, Die besten Visualisierungs-Tipps für Präsentation und Training. managerSeminare Verlags GmbH 2016
+- [[[rachow, Rachow 2016]]] Axel Rachow: Sichtbar, Die besten Visualisierungs-Tipps für Präsentation und Training. managerSeminare Verlags GmbH 2016
 
 **S**
 
-- [[[thun81, Schulz von Thun 1981]]] Schulz von Thun, F.: Miteinander reden 1, Störungen und Klärungen, Allgemeine Psychologie der Kommunikation. Rowohlt Taschenbuch 1981
+- [[[thun81, Schulz von Thun 1981]]] Friedemann Schulz von Thun: Miteinander reden 1, Störungen und Klärungen, Allgemeine Psychologie der Kommunikation. Rowohlt Taschenbuch 1981
 
-- [[[thun83, Schulz von Thun 1983]]] Schulz von Thun, F.: Miteinander reden 2, Stile, Werte und Persönlichkeitsentwicklung; Differentielle Psychologie der Kommunikation. Rowohlt Taschenbuch 1983
+- [[[thun83, Schulz von Thun 1983]]] Friedemann Schulz von Thun: Miteinander reden 2, Stile, Werte und Persönlichkeitsentwicklung; Differentielle Psychologie der Kommunikation. Rowohlt Taschenbuch 1983
 
-- [[[thun98, Schulz von Thun 1998]]] Schulz von Thun, F.: Miteinander reden 3, Das "Innere Team" und situationsgerechte Kommunikation. Rowohlt Taschenbuch 1998
+- [[[thun98, Schulz von Thun 1998]]] Friedemann Schulz von Thun: Miteinander reden 3, Das "Innere Team" und situationsgerechte Kommunikation. Rowohlt Taschenbuch 1998
 
 **U**
 
@@ -60,8 +60,8 @@ This section contains references that are cited in the curriculum.
  
 **V**
 
-- [[[vigenschow, Vigenschow+ 2019]]] Vigenschow, U., Schneider, B., Meyrose, I.: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. 4. Auflage,  dpunkt.verlag GmbH 2019
+- [[[vigenschow, Vigenschow+ 2019]]] Uwe Vigenschow, Björn Schneider, Ines Meyrose: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. 4. Auflage,  dpunkt.verlag GmbH 2019
 
 **Z**
 
-- [[[zoerner, Zörner 2021]]] Zörner, S.: Software-Architekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten.  Carl Hanser Verlag GmbH & Co. KG, 3. Auflage 2021
+- [[[zoerner, Zörner 2021]]] Stefan Zörner: Software-Architekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten.  Carl Hanser Verlag GmbH & Co. KG, 3. Auflage 2021
