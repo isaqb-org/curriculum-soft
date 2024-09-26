@@ -1,5 +1,5 @@
 === {references}
 
-<<ion>>, <<graeßner>>, <<hellmoldt>>, <<maslow>>, <<mayrshofer>>, <<pink>>
+<<ion>>, <<graeßner>>, <<hellmoldt>>, <<mayrshofer>>, <<pink>>
 
 
