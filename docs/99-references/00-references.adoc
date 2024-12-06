@@ -13,6 +13,9 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+**E**
+
+- [[[erpenbeck, Erpenbeck+ 2017]]] John Erpenbeck, Lutz von Rosenstiel, Sven Grote, Werner Sauter: Handbuch Kompetenzmessung: Erkennen, verstehen und bewerten von Kompetenzen in der betrieblichen, pädagogischen und psychologischen Praxis. Schäffer-Poeschel, 3. Auflage 2017
 
 **G**
 
@@ -45,9 +48,6 @@ This section contains references that are cited in the curriculum.
 **R**
 
 - [[[rachow, Rachow 2016]]] Axel Rachow: Sichtbar, Die besten Visualisierungs-Tipps für Präsentation und Training. managerSeminare Verlags GmbH 2016
-
-- [[[erpenbeck, Erpenbeck+ 2017]]] John Erpenbeck, Lutz von Rosenstiel, Sven Grote, Werner Sauter: Handbuch Kompetenzmessung: Erkennen, verstehen und bewerten von Kompetenzen in der betrieblichen, pädagogischen und psychologischen Praxis. Schäffer-Poeschel, 3. Auflage 2017
-
 
 **S**
 
