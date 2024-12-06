@@ -46,6 +46,9 @@ This section contains references that are cited in the curriculum.
 
 - [[[rachow, Rachow 2016]]] Axel Rachow: Sichtbar, Die besten Visualisierungs-Tipps für Präsentation und Training. managerSeminare Verlags GmbH 2016
 
+- [[[erpenbeck, Erpenbeck+ 2017]]] John Erpenbeck, Lutz von Rosenstiel, Sven Grote, Werner Sauter: Handbuch Kompetenzmessung: Erkennen, verstehen und bewerten von Kompetenzen in der betrieblichen, pädagogischen und psychologischen Praxis. Schäffer-Poeschel, 3. Auflage 2017
+
+
 **S**
 
 - [[[thun81, Schulz von Thun 1981]]] Friedemann Schulz von Thun: Miteinander reden 1, Störungen und Klärungen, Allgemeine Psychologie der Kommunikation. Rowohlt Taschenbuch 1981
@@ -60,7 +63,7 @@ This section contains references that are cited in the curriculum.
  
 **V**
 
-- [[[vigenschow, Vigenschow+ 2019]]] Uwe Vigenschow, Björn Schneider, Ines Meyrose: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. 4. Auflage,  dpunkt.verlag GmbH 2019
+- [[[vigenschow, Vigenschow+ 2019]]] Uwe Vigenschow, Björn Schneider, Ines Meyrose: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. dpunkt.verlag GmbH, 4. Auflage 2019
 
 **Z**
 
