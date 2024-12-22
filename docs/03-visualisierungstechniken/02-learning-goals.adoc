@@ -20,26 +20,19 @@ Die Teilnehmer:innen kennen Offline- und Online-Visualisierungstechniken wie z.B
 // end::DE[]
 
 // tag::EN[]
-==== What should the participants be able to do?
-- The participants have gained an impression of how they can use visualisation techniques for reaching a consensus and for joint development of results.
-- The participants should feel motivated to stand up, go to the front and visualise or draw what they’re thinking.
 
-==== What should the participants understand?
-- Visualisation can also be used to reach a consensus.
-- Visualisation increases transparency and a common understanding.
-- Visualisation supports clarification processes.
-- Visualisation is a linking topic.
-- There’s a difference between visualisation for moderation purposes and someone else visualising their own ideas.
+[[LG-3-1]]
+==== LG 3-1: Recognise the usefulness of visualisation for effective conversation and conflict prevention
 
-==== What should the participants know?
-- How to use whiteboards, flipcharts and metaplan boards and cards
-- What is used where in practice
-- When visualisation makes sense
+The participants have gained an impression of how they can use visualisation techniques to reach consensus and jointly develop results.
+Participants should encouraged to stand up, walk forward and visualise/paint what they think without having artistic pretensions.
 
+[[LG-3-2]]
+==== LG 3-2: Know visualisation techniques and select them appropriately
 
-[NOTE]
-====
-**TODO**: explizite Lernziele aus DE übernehmen
-====
+The participants are familiar with offline and online visualisation techniques such as
+
+- Whiteboard, flipchart, metaplan boards and cards or post-its
+- Digital whiteboards vs. office products
 
 // end::EN[]
