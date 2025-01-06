@@ -13,12 +13,15 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
+**E**
+
+- [[[erpenbeck, Erpenbeck+ 2017]]] John Erpenbeck, Lutz von Rosenstiel, Sven Grote, Werner Sauter: Handbuch Kompetenzmessung: Erkennen, verstehen und bewerten von Kompetenzen in der betrieblichen, pädagogischen und psychologischen Praxis. Schäffer-Poeschel, 3. Auflage 2017
 
 **G**
 
 - [[[glasl, Glasl 2020]]] Friedrich Glasl: Konfliktfähigkeit statt Streitlust oder Konfliktscheu. 5. Auflage, Verlag am Goetheanum 2020
 
-- [[[graeßner, Graeßner 2013]]] Gernot Graeßner: Moderation - das Lehrbuch. 2. Auflage, ZIEL 2013
+- [[[graeßner, Graeßner 2013]]] Gernot Graeßner: Moderation - das Lehrbuch. ZIEL, 2. Auflage 2013
 
 **H**
 
@@ -30,13 +33,13 @@ This section contains references that are cited in the curriculum.
 
 **K**
 
-- [[[krips, Krips+ 2017]]] David Krips: Stakeholdermanagement: Kurzanleitung Heft 5. 2. Auflage, Springer Vieweg 2017
+- [[[krips, Krips+ 2017]]] David Krips: Stakeholdermanagement: Kurzanleitung Heft 5. Springer Vieweg, 2. Auflage 2017
 
 **M**
 
 - [[[maslow, Maslow]]] Maslowsche Bedürfnishierarchie. https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie
 
-- [[[mayrshofer, Mayrshofer 2006]]] Daniela Mayrshofer, Hubertus A. Kröger: Prozesskompetenz in der Projektarbeit. 3. Auflage, Edition Windmühle 2006
+- [[[mayrshofer, Mayrshofer 2006]]] Daniela Mayrshofer, Hubertus A. Kröger: Prozesskompetenz in der Projektarbeit. Edition Windmühle, 3. Auflage 2006
 
 **P**
 
@@ -60,7 +63,7 @@ This section contains references that are cited in the curriculum.
  
 **V**
 
-- [[[vigenschow, Vigenschow+ 2019]]] Uwe Vigenschow, Björn Schneider, Ines Meyrose: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. 4. Auflage,  dpunkt.verlag GmbH 2019
+- [[[vigenschow, Vigenschow+ 2019]]] Uwe Vigenschow, Björn Schneider, Ines Meyrose: Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle. dpunkt.verlag GmbH, 4. Auflage 2019
 
 **Z**
 
