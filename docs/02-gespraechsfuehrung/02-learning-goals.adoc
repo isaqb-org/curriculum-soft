@@ -26,28 +26,27 @@ Die Teilnehmer:innen verstehen die Bedeutung einer Gesprächsnachbereitung für 
 // end::DE[]
 
 // tag::EN[]
-==== What should the participants be able to do?
-- The participants can evaluate one-on-one and group discussions and presentations based on different communication models.
-- Participants can independently prepare one-on-one and group discussions in a structured manner.
-- Participants can conduct one-on-one and group discussions.
-- Participants can carry out the necessary follow-up activities for one-on-one and group discussions.
-- The participants have learnt methods for conducting discussions (actively listening, asking questions / follow-up questions, summarising) and how to apply them.
 
-==== What should the participants understand?
-- The participants understand the importance and effectiveness of well-planned preparation of discussions.
-- The participants understand the structure of the course of a discussion and prepare themselves for it.
-- The participants understand the importance of following up discussions.
-- The participants can recognise a divergence between the subject level and the process level.
-- The participants understand that intensive preparation of a discussion enables them to adapt to current developments and unforeseen changes, and that they can trust their inner freedom and skills.
+[[LG-2-1]]
+==== LG 2-1: Prepare discussions independently and in a structured manner
 
-==== What should the participants know?
-- Situations in which the participants conduct one-on-one or group discussions
-- Different presentation methods, depending on the respective situation.
+Participants understand the importance and effectiveness of well-planned interview preparation. They understand that intensive preparation for a meeting enables them to adapt to the current situation/unplanned changes and that they can trust their abilities. Participants are able to assess individual and group discussions and presentations on the basis of different communication models. They understand the structure of a dialogue process and prepare appropriate spontaneous conversation situations and planned meetings.
 
-[NOTE]
-====
-**TODO**: explizite Lernziele aus DE übernehmen
-====
+[[LG-2-2]]
+==== LG 2-2: Conduct conversations confidently and appropriately to the situation
+
+Participants are able to recognise the difference between the factual and process levels. They know the difference between persuasion, enforcement and manipulation. They will also recognise when a group or individual setting is suitable. They know methods of dialogue management and can apply them, e.g.
+
+- active listening
+- Questioning techniques
+- 4-quadrant model.
+- three sides of persuasion according to Aristotle (credibility, competence, sympathy)
+- Manipulation techniques (e.g. reciprocity, authority, sympathy, scarcity)
+
+[[LG-2-3]]
+==== LG 2-3: Follow up conversations in terms of content and reflection
+
+The participants understand the importance of a follow-up discussion for participants and as an opportunity for reflection for themselves.
 
 // end::EN[]
 

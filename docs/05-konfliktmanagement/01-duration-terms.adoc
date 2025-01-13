@@ -13,7 +13,8 @@ Definitionen, Konfliktanalyse, Eisbergmodell nach Freud, Konfliktarten, Konflikt
 |===
 
 === Terms and Principles
-Definitions, types of conflicts, conflict analysis, Glasl’s conflict stages.
+Definitions, conflict analysis, Freud's iceberg model, types of conflict, conflict stages according to Glasl.
+
 // end::EN[]
 
 

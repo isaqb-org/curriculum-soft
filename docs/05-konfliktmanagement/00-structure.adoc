@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Introduction to conflict management
+== Basics of conflict management
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

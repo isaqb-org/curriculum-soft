@@ -16,15 +16,16 @@ Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe 
 // tag::EN[]
 === Supplementary Information, Terms, Translations
 
-Architects need soft skills in their day-to-day work. They are continuously in contact with stakeholders, requirements engineers and development and quality assurance staff. They make design decisions based on information obtained from many different discussions, held with people with a wide range of interests. In this area of potential conflict, they must be able to identify the relevant important content for the decision to be made, and to present it in detail. Communication of their actual decisions in a clearly understandable manner is another challenge.
+Architects need soft skills in their day-to-day work. They are in constant dialogue with stakeholders, requirements engineers, development and quality assurance. They often make design decisions together with others based on information from many different discussions they have had with people with different interests. In this field of tension, they must be able to recognise and work out the content that is important for the decision. Presenting their decisions in a clear and comprehensible way is another challenge.
 
-Human traits are often an obstacle to objective communication, with the result that misunderstandings and sensitivities can hinder the decision-making process and smooth cooperation, and that conflicts can easily develop.
+Often, overly human characteristics stand in the way of purely objective communication, so that misunderstandings and sensitivities can hinder the decision-making process and smooth collaboration. Conflicts can easily arise as a result.
 
-This course specifically addresses the typical work situations of architects in this context as the "hub of the wheel”, and provides pragmatic tools for enriching one’s own set of soft skills and appropriately constructively coping with the challenges of an architect.
+The training specifically addresses the contextual work situations of architects as the "hub in the wheel" and provides pragmatic tools to enrich one's own soft skills toolbox and to handle challenges in architectural work in an appropriately constructive manner.
 
-The material learnt in the “Soft Skills for Architects” module is not covered by the iSAQB CPSA-A examination. It is, however, expected that the examinees use their soft skills to present and discuss their solution to the examination task in an understandable manner.
+The content learnt in the "Soft Skills for Architects" training course is not tested in the iSAQB CPSA®-A exam. However, candidates are expected to use their soft skills to present and discuss the solution found for the examination task in an understandable way.
 
-To the extent necessary for understanding the curriculum, we have added definitions of technical terms to the https://github.com/isaqb-org/glossary[iSAQB glossary] and complemented them by references to (translated) literature.
+Where necessary for understanding the syllabus, we have included technical terms in the https://github.com/isaqb-org/glossary[iSAQB glossary], defined them and supplemented them with translations of the original literature where required.
+
 // end::EN[]
 
 
