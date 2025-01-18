@@ -24,7 +24,7 @@ The training specifically addresses the contextual work situations of architects
 
 The content learnt in the "Soft Skills for Architects" training course is not tested in the iSAQB CPSA®-A exam. However, candidates are expected to use their soft skills to present and discuss the solution found for the examination task in an understandable way.
 
-Where necessary for understanding the syllabus, we have included technical terms in the https://github.com/isaqb-org/glossary[iSAQB glossary], defined them and supplemented them with translations of the original literature where required.
+Where necessary for understanding the curriculum, we have included technical terms in the https://github.com/isaqb-org/glossary[iSAQB glossary], defined them and supplemented them with translations of the original literature where required.
 
 // end::EN[]
 
