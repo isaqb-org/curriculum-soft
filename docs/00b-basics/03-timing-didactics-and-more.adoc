@@ -29,7 +29,7 @@ The duration of a training course for the {curriculum-short} module should be at
 Providers may differ in terms of duration, didactics, type and structure of the exercises and the detailed structure of the course.
 In particular, the syllabus leaves the type of examples and exercises completely open.
 
-The techniques, models and tools mentioned are ways of communicating the learning objectives to the participants.
+The techniques, models, and tools mentioned are ways of communicating the learning objectives to the participants.
 Trainers can deviate from these suggestions if they can justify why a different delivery technique addresses the learning objectives in the same way.
 All content should be reflected on using examples from the participants and transferred into their everyday lives with suitable practical exercises.
 
