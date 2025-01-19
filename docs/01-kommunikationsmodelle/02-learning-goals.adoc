@@ -59,7 +59,7 @@ Die Teilnehmer:innen können Maßnahmen aus der Stakeholderanalyse ableiten wie 
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Recognising and differentiating between types of competence and their acquisition
+==== LG 1-1: Recognizing and differentiating between types of competence and their acquisition
 
 Participants can distinguish between the four competences (technical, methodological, social and personal competence) and understand that there are different ways to develop them (knowledge transfer, practice, reflection).
 
@@ -72,7 +72,7 @@ Participants understand that their inner attitude has an on conversations. They 
 * 4 pages of a message
 * 16 Motives for life
 
-The participants recognise that typologies can lead to pigeonholing and should therefore be used with caution. At the same time, they recognise their usefulness for self-reflection and target group and needs-oriented conversations.
+The participants recognize that typologies can lead to pigeonholing and should therefore be used with caution. At the same time, they recognize their usefulness for self-reflection and target group and needs-oriented conversations.
 
 [[LG-1-3]]
 ==== LG 1-3: Understanding feedback as a contribution to learning and requesting it from third parties 

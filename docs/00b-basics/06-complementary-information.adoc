@@ -16,7 +16,7 @@ Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe 
 // tag::EN[]
 === Supplementary Information, Terms, Translations
 
-Architects need soft skills in their day-to-day work. They are in constant dialogue with stakeholders, requirements engineers, development and quality assurance. They often make design decisions together with others based on information from many different discussions they have had with people with different interests. In this field of tension, they must be able to recognise and work out the content that is important for the decision. Presenting their decisions in a clear and comprehensible way is another challenge.
+Architects need soft skills in their day-to-day work. They are in constant dialogue with stakeholders, requirements engineers, development and quality assurance. They often make design decisions together with others based on information from many different discussions they have had with people with different interests. In this field of tension, they must be able to recognize and work out the content that is important for the decision. Presenting their decisions in a clear and comprehensible way is another challenge.
 
 Often, overly human characteristics stand in the way of purely objective communication, so that misunderstandings and sensitivities can hinder the decision-making process and smooth collaboration. Conflicts can easily arise as a result.
 

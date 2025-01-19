@@ -22,7 +22,7 @@ Die Teilnehmer:innen kennen Offline- und Online-Visualisierungstechniken wie z.B
 // tag::EN[]
 
 [[LG-3-1]]
-==== LG 3-1: Recognise the usefulness of visualisation for effective conversation and conflict prevention
+==== LG 3-1: Recognize the usefulness of visualisation for effective conversation and conflict prevention
 
 The participants have gained an impression of how they can use visualisation techniques to reach consensus and jointly develop results.
 Participants should encouraged to stand up, walk forward and visualise/paint what they think without having artistic pretensions.
