@@ -8,20 +8,7 @@ Die kommunikativen Herausforderungen von Softwarearchitekt:innen theoretisch und
 // tag::EN[]
 === Prerequisites
 
-Participants **should** have the following prerequisite knowledge:
-
-- Software development is communication.
-- Architects represent the IT side and support Requirements Engineers/Software Analysts in their role as intermediaries between the operations side and the IT side.
-- Respecting people and communicating successfully with them are important skills for architects.
-
-Knowledge in the following areas may be **helpful** for understanding some concepts:
-
-- Knowledge of typical challenges when interacting with other people:
-  * The other person “doesn’t understand me”.
-  * There is a conflict.
-  * People sometimes don’t understand everything that architects are trying to explain to them.
-  * Complicated issues are easier to understand with the aid of diagrams.
-  * It’s not easy to find solutions together.
+Theoretical and/or practical knowledge of the communication challenges faced by software architects is recommended.
 
 // end::EN[]
 
