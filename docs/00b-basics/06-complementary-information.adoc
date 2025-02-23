@@ -22,7 +22,7 @@ Often, overly human characteristics stand in the way of purely objective communi
 
 The training specifically addresses the contextual work situations of architects as the "hub in the wheel" and provides pragmatic tools to enrich one's own soft skills toolbox and to handle challenges in architectural work in an appropriately constructive manner.
 
-The content conveyed in the "Soft Skills for Architects" training course is not tested in the iSAQB CPSA®-A exam. However, candidates are expected to use their soft skills to present and discuss the solution found for the examination task in an understandable way.
+The content conveyed in the "Soft Skills for Architects" training course is not tested in the iSAQB® CPSA-A exam. However, candidates are expected to use their soft skills to present and discuss the solution found for the examination task in an understandable way.
 
 Where necessary for understanding the curriculum, we have included technical terms in the https://github.com/isaqb-org/glossary[iSAQB glossary], defined them, and supplemented them with translations of the original literature where required.
 
