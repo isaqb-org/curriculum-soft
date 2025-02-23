@@ -66,10 +66,10 @@ Participants can distinguish between the four competences (technical, methodolog
 [[LG-1-2]]
 ==== LG 1-2: Know the basics of communication models and types and apply them for reflection
 
-Participants understand that their inner attitude has an on conversations. They are familiar with different communication models and types, e.g: 
+Participants understand that their inner attitude has an impact on conversations. They are familiar with different communication models and types, e.g: 
 
-* 4-quadrant model
-* Four-sides model (Friedemann Schulz von Thun)
+* 4MAT
+* 4 sides model
 * 16 Motives for life
 
 The participants recognize that typologies can lead to pigeonholing and should therefore be used with caution. At the same time, they recognize their usefulness for self-reflection and target group and needs-oriented conversations.

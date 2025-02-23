@@ -43,7 +43,7 @@ Darüber hinaus ist Teilnehmer:innen bewusst, dass die Dokumentation und Kommuni
 ==== LG 4-1: Understand the responsibilities of a facilitator role
 
 The participants can distinguish between the role of "facilitator" (supporting a solution process with an unintentional interest in the outcome) and the role of "decision-maker" (contributing to the outcome of the solution with an intentional interest).
-They are able to decide from the architecture role when recipient-orientated contributions would be helpful to support the solution process. They are also aware of the tasks and responsibilities of moderators and dialogue participants.
+They are able to decide, when it is useful and necessary to contribute content with intent from an architectural perspective. They are also aware of the tasks and responsibilities of moderators and dialogue participants.
 
 [[LG-4-2]]
 ==== LG 4-2: Conduct a moderation including suitable moderation tools
@@ -59,17 +59,17 @@ Participants can apply methods and techniques for organizing group situations an
 [[LG-4-3]]
 ==== LG 4-3: Prepare and implement decision-making with the group
 
-For the role of "decision-maker" (participating with a deliberate interest in the outcome of the solution) and in the role of "moderator", the participants can select suitable decision-making tools and bring about architectural decisions in the group. Suitable tools could be
+For the role of "decision-maker" (participating with a deliberate interest in the outcome of the solution) and in the role of "moderator", the participants can select suitable decision-making tools and enable architectural decisions in the group. Suitable tools could be
 
 - Fist of five or delegation level
-- Last reasonable moment (LRM)
+- Last responsible moment (LRM)
 - Set-Based Design
 - Eisenhower principle
 - MoSCoW
 - Weighted-Shortest-Job-First (WSJF)
 - Relative weight
 
-In addition, participants are aware that the documentation and communication of architectural decisions is important and can prevent conflicts. The following are suitable for this e.g. tools such as Architecture Decision Records.
+In addition, participants are aware that the documentation and communication of architectural decisions is important and can prevent conflicts. Architecture Decision Records are a suitable tool for that.
 
 // end::EN[]
 
