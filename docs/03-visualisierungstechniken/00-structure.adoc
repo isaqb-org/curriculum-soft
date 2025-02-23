@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Visualisation techniques
+== Visualization techniques
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

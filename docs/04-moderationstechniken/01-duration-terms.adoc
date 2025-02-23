@@ -14,7 +14,8 @@ Rollenverständnis der Moderationsrolle, verschiedene Moderationstechniken, Ents
 |===
 
 === Terms and Principles
-Definitions, the role of the moderator, different moderation techniques, stages in decision-making.
+Understanding the role of the moderator, various moderation techniques, decision-making techniques
+
 // end::EN[]
 
 

@@ -25,7 +25,7 @@
 | Recommended minimum duration (minutes)
 | 1. Fundamentals of communication | 330
 | 2. One-on-one and group discussions | 180
-| 3. Visualisation techniques | 60
+| 3. Visualization techniques | 60
 | 4. Moderation techniques | 240
 | 5. Fundamentals of conflict management | 360
 | |
