@@ -48,13 +48,13 @@ They are able to decide from the architecture role when recipient-orientated con
 [[LG-4-2]]
 ==== LG 4-2: Conduct a moderation including suitable moderation tools
 
-Participants can apply methods and techniques for organising group situations and conducting discussions in groups to support solution finding and conflict prevention. Moderation techniques could be, for example
+Participants can apply methods and techniques for organizing group situations and conducting discussions in groups to support solution finding and conflict prevention. Moderation techniques could be, for example
 
 - Creativity techniques such as brainstorming
 - Call/card queries
 - Dot Voting
 - Time Boxing
-- Mind mapping & matrix visualisations
+- Mind mapping & matrix visualizations
 
 [[LG-4-3]]
 ==== LG 4-3: Prepare and implement decision-making with the group

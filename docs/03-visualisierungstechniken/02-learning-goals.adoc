@@ -22,15 +22,15 @@ Die Teilnehmer:innen kennen Offline- und Online-Visualisierungstechniken wie z.B
 // tag::EN[]
 
 [[LG-3-1]]
-==== LG 3-1: Recognize the usefulness of visualisation for effective conversation and conflict prevention
+==== LG 3-1: Recognize the usefulness of visualization for effective conversation and conflict prevention
 
-The participants have gained an impression of how they can use visualisation techniques to reach consensus and jointly develop results.
-Participants should encouraged to stand up, walk forward and visualise/paint what they think without having artistic pretensions.
+The participants have gained an impression of how they can use visualization techniques to reach consensus and jointly develop results.
+Participants should encouraged to stand up, walk forward and visualize/paint what they think without having artistic pretensions.
 
 [[LG-3-2]]
-==== LG 3-2: Know visualisation techniques and select them appropriately
+==== LG 3-2: Know visualization techniques and select them appropriately
 
-The participants are familiar with offline and online visualisation techniques such as
+The participants are familiar with offline and online visualization techniques such as
 
 - Whiteboard, flipchart, metaplan boards and cards or post-its
 - Digital whiteboards vs. office products

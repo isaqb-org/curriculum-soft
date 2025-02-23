@@ -29,20 +29,20 @@ Da verschiedene Konfliktarten und -eskalationsstufen unterschiedliche Lösungswe
 
 
 [[LG-5-1]]
-==== LG 5-1: Analyse conflicts according to needs
+==== LG 5-1: Analyze conflicts according to needs
 
 In order to remain capable of acting and working in conflict situations, participants should be able to deal with conflicts using tools such as
 
 - Types of conflict
 - Levels of conflict according to Glasl
 
-be able to analyse the situation. In a conflict situation, they should also be able to recognise whether they can resolve the conflict independently and derive suitable de-escalation and delegation methods as well as other solution strategies.
+be able to analyze the situation. In a conflict situation, they should also be able to recognise whether they can resolve the conflict independently and derive suitable de-escalation and delegation methods as well as other solution strategies.
 
 [[LG-5-2]]
-==== LG 5-2: Reflect on own conflict behaviour
+==== LG 5-2: Reflect on own conflict behavior
 
 Participants should understand that constructive conflict resolution contributes to growth and learning.
-They should also be aware of the role that they themselves, the organisation, technological framework conditions and collaboration processes could play in the conflict.
+They should also be aware of the role that they themselves, the organization, technological framework conditions and collaboration processes could play in the conflict.
 
 
 [[LG-5-3]]

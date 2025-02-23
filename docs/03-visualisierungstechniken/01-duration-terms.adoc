@@ -14,7 +14,7 @@ Präsentation, Visualisierungstechniken (physisch und virtuell), Bedeutung von V
 |===
 
 === Terms and Principles
-Presentation, visualisation techniques (physical and virtual), importance of visualisation, advantages and disadvantages of different visualisation media.
+Presentation, visualization techniques (physical and virtual), importance of visualization, advantages and disadvantages of different  media.
 
 // end::EN[]
 
