@@ -90,11 +90,11 @@ The participants understand that regular reflection gives them clarity about how
 The participants understand that regular reflection gives them clarity about how they see themselves and how others see them.
 
 [[LG-1-6]]
-==== LG 1-6: Analyze stakeholders of the software architecture and apply communication in a target group-oriented manner
+==== LG 1-6: Analyze stakeholders of the software architecture and apply communication in a target-group-oriented manner
 
 Participants can identify typical stakeholders from the perspective of software architects (e.g. developers, management, operations, customers) and understand their concerns (e.g. via Maslow's hierarchy of needs).
 
-You can carry out a stakeholder analysis using tools such as
+They can carry out a stakeholder analysis using tools such as
 
 - Stakeholder map
 - Relationship map or dependency analysis
