@@ -8,12 +8,14 @@ Präsentation, Visualisierungstechniken (physisch und virtuell), Bedeutung von V
 // end::DE[]
 
 // tag::EN[]
+
 |===
 | Duration: 45 min | Practice time: 15 min
 |===
 
 === Terms and Principles
-Visualisation techniques, importance of visualisation, advantages and disadvantages of different visualisation media (metaplan board, whiteboard, flipchart, slides, PowerPoint, tools).
+Presentation, visualization techniques (physical and virtual), importance of visualization, advantages and disadvantages of different media.
+
 // end::EN[]
 
 

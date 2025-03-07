@@ -58,30 +58,52 @@ Die Teilnehmer:innen können Maßnahmen aus der Stakeholderanalyse ableiten wie 
 // end::DE[]
 
 // tag::EN[]
-==== What should the participants be able to do?
-- The participants are familiar with different communication models and types.
-- Participants can assess in which typologies they and their dialogue partner find themselves. During this process, they consider that typologies can also lead to stereotyped thinking and should therefore be used with care.
-- Participants can adapt their communication to the respective needs of others.
+[[LG-1-1]]
+==== LG 1-1: Recognizing and differentiating between types of competence and their acquisition
 
-==== What should the participants understand?
-- Other people are not the same as me.
-- Knowing the other person’s communication type can be useful when communicating with them.
-- Content is the least important aspect when speaking.
-- People don’t (only) act rationally, and that’s OK!
-- Models are too simple, but are nonetheless useful.
-- My inner disposition affects the communication.
-- It’s wrong to believe that only one person can be right.
-- Resource-oriented versus deficient communication.
+Participants can distinguish between the four competences (technical, methodological, social and personal competence) and understand that there are different ways to develop them (knowledge transfer, practice, reflection).
 
-==== What should the participants know?
-- Their own assumptions of how communication works
-- Situations in which communication was successful and situations in which it was unsuccessful
-- Their own strengths and weaknesses in specific communication situations
-- Knowledge of how they wish to improve their own skills
+[[LG-1-2]]
+==== LG 1-2: Know the basics of communication models and types and apply them for reflection
 
-[NOTE]
-====
-**TODO**: explizite Lernziele aus DE übernehmen
-====
+Participants understand that their inner attitude has an impact on conversations. They are familiar with different communication models and types, e.g: 
+
+* 4MAT
+* 4 sides model
+* 16 Motives for life
+
+The participants recognize that typologies can lead to pigeonholing and should therefore be used with caution. At the same time, they recognize their usefulness for self-reflection and target group and needs-oriented conversations.
+
+[[LG-1-3]]
+==== LG 1-3: Understanding feedback as a contribution to learning and requesting it from third parties 
+
+Participants are able to request feedback from third parties. They understand feedback as a contribution to learning, know the rules for receiving feedback and comply with them.
+
+[[LG-1-4]]
+==== LG 1-4: Giving and receiving constructive feedback 
+
+The participants understand that regular reflection gives them clarity about how they see themselves and how others see them. They realize that regular feedback promotes constructive cooperation and thus also contributes to sustainable work results. Participants know the rules for giving feedback and comply with them.
+
+[[LG-1-5]]
+==== LG 1-5: Understand the need and purpose of self-reflection
+
+The participants understand that regular reflection gives them clarity about how they see themselves and how others see them.
+
+[[LG-1-6]]
+==== LG 1-6: Analyze stakeholders of the software architecture and apply communication in a target-group-oriented manner
+
+Participants can identify typical stakeholders from the perspective of software architects (e.g. developers, management, operations, customers) and understand their concerns (e.g. via Maslow's hierarchy of needs).
+
+They can carry out a stakeholder analysis using tools such as
+
+- Stakeholder map
+- Relationship map or dependency analysis
+- RACI matrix
+
+The participants can derive measures from the stakeholder analysis, such as
+
+- Develop, communicate and plan risks and corresponding mitigation measures
+- Develop, communicate and plan measures to ensure stakeholder satisfaction
+- Create a stakeholder communication plan
 
 // end::EN[]

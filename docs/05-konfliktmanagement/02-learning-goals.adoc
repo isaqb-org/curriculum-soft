@@ -26,28 +26,28 @@ Da verschiedene Konfliktarten und -eskalationsstufen unterschiedliche Lösungswe
 // end::DE[]
 
 // tag::EN[]
-==== What should the participants be able to do?
-- The participants can carry out a conflict analysis appropriate to the situation, to ensure a continued ability to act and work.
-- In a conflict situation, the participants can recognise whether they can resolve the conflict on their own authority.
-- The participants find both their own de-escalation channels and delegation options and escalation channels.
 
-==== What should the participants understand?
-- Different types of conflict require different approaches for their resolution.
-- Conflict analyses assist in differentiating between practical and impractical solution approaches.
-- Constructive conflict solutions contribute to growth and learning.
-- Only under certain conditions can conflicts can be resolved on one’s own authority.
-- The participants are not responsible for providing the solution for a conflict.
 
-==== What should the participants know?
-- The most important conflict situations in the context of software architecture work, and the involved parties (e. g., Specialist Department / Development, Development/Operations, Development/Support, etc.)
-- Glasl’s stages of conflicts
-- Conflict resolution options on one’s own authority
-- Delegation options and escalation channels
+[[LG-5-1]]
+==== LG 5-1: Analyze conflicts according to needs
 
-[NOTE]
-====
-**TODO**: explizite Lernziele aus DE übernehmen
-====
+In order to remain capable of acting and working in conflict situations, participants should be able to deal with conflicts using tools such as
 
+- Types of conflicts
+- 9 stages of conflict escalation
+
+to be able to analyze the situation. In a conflict situation, they should also be able to recognize whether they can resolve the conflict independently and derive suitable de-escalation and delegation methods as well as other solution strategies.
+
+[[LG-5-2]]
+==== LG 5-2: Reflect on their own conflict behavior
+
+Participants should understand that constructive conflict resolution contributes to growth and learning.
+They should also be aware of the role that they themselves, the organization, technological constraints, and collaboration processes could play in the conflict.
+
+
+[[LG-5-3]]
+==== LG 5-3: Resolve conflicts constructively and derive preventive measures 
+
+As different types of conflict and levels of escalation require different approaches to resolving them, participants should be familiar with these and be able to apply them. They should also know how conflicts can be dealt with preventively.
 
 // end::EN[]

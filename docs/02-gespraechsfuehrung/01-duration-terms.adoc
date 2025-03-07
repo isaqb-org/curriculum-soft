@@ -14,8 +14,7 @@ Aktives Zuhören, Feedback geben, Einzelgesprächsführung, Gruppengesprächsfü
 |===
 
 === Terms and Principles
-Active listening, providing feedback, one-on-one discussions, group discussions, preparation of discus-
-sions, follow-up activities, the course of a discussion, discussion settings.
+Active listening, giving feedback, conducting one-to-one conversations, conducting group conversations, preparing for conversations, following up conversations, the course of a conversation, clarifying conversation settings.
 
 // end::EN[]
 

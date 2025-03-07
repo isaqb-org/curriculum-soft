@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== One-on-one and group discussions
+== Individual and group counselling
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

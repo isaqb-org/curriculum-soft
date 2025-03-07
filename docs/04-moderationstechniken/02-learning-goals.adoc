@@ -27,7 +27,7 @@ Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der L
 
 - Fist of five oder Delegation Level
 - Letzter vernünftiger Moment (LVM)
-- Set-Based Design
+- Set-based Design
 - Eisenhower-Prinzip
 - MoSCoW
 - Weighted-Shortest-Job-First (WSJF)
@@ -38,26 +38,38 @@ Darüber hinaus ist Teilnehmer:innen bewusst, dass die Dokumentation und Kommuni
 // end::DE[]
 
 // tag::EN[]
-==== What should the participants be able to do?
-- The participants can define their role in accordance with the requirements of the specific group situation, between the extremes of “Moderator” (process level) and “Decision maker” (functional level), and can make it transparent in the group.
-- To support decision making they can use methods and techniques for the preparation and conduct of group situations and for discussions in groups.
-- They can bring about architecture decisions in the group.
-- They can provide inputs appropriate to the group’s needs, to support the solution process.
 
-==== What should the participants understand?
-- The demands that the role of a moderator places on the architect.
-- The difference between the role of the moderator (supporting a solution process with no specific interest in the nature of the resulting solution) and the role of the decision maker/architect (with a specific interest in the resulting solution).
-- Which aspects of the moderator role help the architect to in future achieve viable and constructive solutions.
-- That in addition to technical aspects, architecture involves a significant level of moderation dexterity to enable smooth interaction with one another.
+[[LG-4-1]]
+==== LG 4-1: Understand the responsibilities of a facilitator role
 
-==== What should the participants know?
-- Experience with moderation situations
-- Further literature.
+The participants can distinguish between the role of "facilitator" (supporting a solution process with an unintentional interest in the outcome) and the role of "decision-maker" (contributing to the outcome of the solution with an intentional interest).
+They are able to decide, when it is useful and necessary to contribute content with intent from an architectural perspective. They are also aware of the tasks and responsibilities of moderators and dialogue participants.
 
-[NOTE]
-====
-**TODO**: explizite Lernziele aus DE übernehmen
-====
+[[LG-4-2]]
+==== LG 4-2: Conduct a moderation including suitable moderation tools
+
+Participants can apply methods and techniques for organizing group situations and conducting discussions in groups to support solution finding and conflict prevention. Moderation techniques could be, for example
+
+- Creativity techniques such as brainstorming
+- Call/card queries
+- Dot Voting
+- Time Boxing
+- Mind mapping & matrix visualizations
+
+[[LG-4-3]]
+==== LG 4-3: Prepare and implement decision-making with the group
+
+For the role of "decision-maker" (participating with a deliberate interest in the outcome of the solution) and in the role of "moderator", the participants can select suitable decision-making tools and enable architectural decisions in the group. Suitable tools could be
+
+- Fist of five or delegation level
+- Last responsible moment (LRM)
+- Set-based Design
+- Eisenhower principle
+- MoSCoW
+- Weighted-Shortest-Job-First (WSJF)
+- Relative weight
+
+In addition, participants are aware that the documentation and communication of architectural decisions is important and can prevent conflicts. Architecture Decision Records are a suitable tool for that.
 
 // end::EN[]
 

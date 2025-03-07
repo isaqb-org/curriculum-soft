@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Introduction to communication models and types
+== Basics of communication
 // end::EN[]
 
 
