@@ -1,5 +1,5 @@
 ext {
-    curriculumFileName = "curriculum-foundation"
+    curriculumFileName = "curriculum-soft"
     languages = ["DE", "EN"]
 }
 
