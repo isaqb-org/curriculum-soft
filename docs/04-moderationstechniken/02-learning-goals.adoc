@@ -27,7 +27,7 @@ Für die Rolle „Entscheider“ (mit absichtsvollem Interesse am Ergebnis der L
 
 - Fist of five oder Delegation Level
 - Letzter vernünftiger Moment (LVM)
-- Set-Based Design
+- Set-based Design
 - Eisenhower-Prinzip
 - MoSCoW
 - Weighted-Shortest-Job-First (WSJF)
@@ -63,7 +63,7 @@ For the role of "decision-maker" (participating with a deliberate interest in th
 
 - Fist of five or delegation level
 - Last responsible moment (LRM)
-- Set-Based Design
+- Set-based Design
 - Eisenhower principle
 - MoSCoW
 - Weighted-Shortest-Job-First (WSJF)
